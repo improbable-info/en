@@ -31,15 +31,18 @@ a {
 }
 
 .page-header {
-    padding: 1rem 1rem;
+    padding: 1.25rem 1rem;
 }
 .page-header .flags {
+    display: inline-block;
     position: absolute;
-    top: 0.5rem;
-    right: 0.5rem;
+    top: 0;
+    right: 0;
 }
 .page-header .flags .flag {
-    margin: 0.5rem;
+    display: inline-block;
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
 }
 .project-tagline {
     margin-top: 0;
