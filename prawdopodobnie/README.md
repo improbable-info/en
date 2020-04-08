@@ -1,17 +1,17 @@
 
-## Prawdopodobnie wszystko jest inaczej
+## Probably everything is different
 
 ![Okładka Prawdopodobnie wszystko jest inaczej](../assets/img/prawdopodobnie.jpg)
-Książkę można zamówić pod adresem [https://www.mybook.pl/6/0/bid/303](https://www.mybook.pl/6/0/bid/303)
+The book was published only in Polish [https://www.mybook.pl/6/0/bid/303](https://www.mybook.pl/6/0/bid/303)
 
-## Prawdopodobnie wszystko jest inaczej
-### Spis treści
+## Probably everything is different
+### Table of contents
 
-[Wprowadzenie](wprowadzenie)
+[Introduction](wprowadzenie)
 
-[I. Czy komputer może myśleć?](rozdzial1)
+[I. Can a computer think?](rozdzial1)
 
-[II. Definiowanie pojęć](rozdzial2)
+[II. Defining concepts](rozdzial2)
 
 [III. Co to jest informacja?](https://www.mybook.pl/6/0/bid/303)
 
