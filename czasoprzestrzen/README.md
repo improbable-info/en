@@ -1,33 +1,33 @@
-## Krótka rozprawa o czasoprzestrzeni
+## A brief debate on space-time
 
-### Spis treści
+### Table of contents
 
-[Wprowadzenie](wprowadzenie)
+[Introduction](wprowadzenie)
 
-[I. Jak powstaje model Wszechświata](rozdzial1)
+[I. How the model of the Universe is created](rozdzial1)
 
-[II. Widzialna część Wszechświata](rozdzial2)
+[II. The observable Universe](rozdzial2)
 
-[III. Matematyka i mózg](rozdzial3)
+[III. Mathematics and the brain](rozdzial3)
 
-[IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
+[IV. Non-Euclidean geometries and determination of distances](rozdzial4)
 
-[V. Kilka zdań o liczbach zespolonych](rozdzial5)
+[V. Few words about complex numbers](rozdzial5)
 
-[VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
+[VI. How do we understand the time?](rozdzial6)
 
-[VII. Wszechświat jako automat komórkowy](rozdzial7)
+[VII. The Universe as a cellular automaton](rozdzial7)
 
-[VIII. Parę słów na temat przestrzeni](rozdzial8)
+[VIII. A few words about space](rozdzial8)
 
-[IX. Pierwsze uwagi o czasoprzestrzeni](rozdzial9)
+[IX. Inicial remarks on space-time](rozdzial9)
 
-[X. Zasada względności w czasoprzestrzeni](rozdzial10)
+[X. The principle of relativity in space-time](rozdzial10)
 
-[XI. Zespolony czas i interwał czasoprzestrzenny](rozdzial11)
+[XI. Complex time and the space-time interval](rozdzial11)
 
-[XII. Wiry i deformacje czasoprzestrzeni](rozdzial12)
+[XII. Space-time swirls and deformations](rozdzial12)
 
-[XIII.Zakończenie](rozdzial13)
+[XIII.Conclusion](rozdzial13)
 
-[Literatura](literatura)
+[Literature](literatura)
