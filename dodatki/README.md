@@ -1,9 +1,9 @@
-## Dodatkowe informacje, kontakt
+## Additional informations, contact
 
-### [Automaty komórkowe](automaty.md)
+### [Cellular automata](automaty.md)
 
-### [Zadania matematyczno-logiczne](zadania.md)
+### [Mathematical and logical tasks](zadania.md)
 
-### [Linki do zalecanych stron](linki.md)
+### [Links to interesting sites](linki.md)
 
-### [Kontakt](kontakt.md)
+### [Contact](kontakt.md)
