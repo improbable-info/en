@@ -1,9 +1,9 @@
-## I. Czy komputer może myśleć?
+## I. Can a computer think?
 
-Na tak postawione pytanie można odpowiedzieć jednym słowem i więcej tym się nie przejmować.
-Wiele osób pewnie by tak zrobiło. Powiedzieliby że nie, i być może mieliby rację.
+To such a question can be answered with one word and not worry about it .Many people felt that in this way.
+They would say no and maybe they would be right.
 
-Ale co to właściwie znaczy **„myśleć”**? Nie będę tu próbował podawać definicji
+But what does it mean to **„think”**? Nie będę tu próbował podawać definicji
 (problemem definicji pojęć będziemy zajmowali się w następnym rozdziale),
 chcę tylko, aby w tym miejscu uświadomić sobie, że odpowiedź na pytanie, czy komputer może myśleć,
 jest zależna od tego, jak zdefiniujemy pojęcie **„myślenie”**.
