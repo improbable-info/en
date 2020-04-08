@@ -12,6 +12,6 @@ What is the next number in the numerical
 
 Zadanie 3:
 
-What is the area around the triangle, where the fields are so much a part thereof, as indicated in the figure?
+What is the field of a triangle if the fields of its parts are as shown in the figure?
 
 ![zadanie](../assets/img/zadanie.jpg)
