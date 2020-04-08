@@ -1,19 +1,18 @@
-## Nowy model Wszechświata
+## A new model of the universe
 
-Jiří Šrajer: na początek parę zdań [o mnie](autor).
+Jiří Šrajer: to start with a few sentences [about me](autor).
 
-W trakcie rozważań nad sztuczną inteligencją zainteresowało mnie pytanie,
-jakie wyobrażenie o świecie mogłyby sobie utworzyć w przyszłości inteligentne komputery
-i jak znacznie mogłoby się ono różnić od naszego.
-Uświadomiłem sobie, że nasze wyobrażenie wcale nie musi być prawidłowe
-i moje przemyślenia opisałem w książce [Prawdopodobnie wszystko jest inaczej](prawdopodobnie).
-Jednym z poruszonych tematów była kwestia geometrii Wszechświata.
-Na początku chciałem tylko pokazać, że może być inaczej niż uważamy,
-ale czasem doszedłem do wniosku, że nasze wyobrażenie jest blędne
-i jest potrzebne utworzyć nowy model czasoprzestrzeni.
-Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
-w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
-Aktualnie pracuję nad komputerowym modelem Wszechświata według moich założeń.
+When I was thinking about artificial intelligence, I was interested in the question
+what image of the world could create intelligent computers in the future
+and how much it could differ from ours.
+I realized that our image does not have to be correct
+and I described my thoughts in the book [Probably everything is different](prawdopodobnie).
+One of the topics discussed was the issue of the geometry of the Universe.
+At first I just wanted to show that it could be different than we think
+but later I came to the conclusion that our image is wrong
+and that we need to create a new space-time model.
+After several years of intensive work, I wrote down the basic ideas of the new model in the book [A brief debate on space-time](czasoprzestrzen).
+I am currently working on a computer model of the Universe according to my assumptions.
 
-Dla zainteresowanych podaję [Dodatkowe informacje](dodatki)
-i [Kontakt](kontakt).
+For interested I provide [Additional information](dodatki)
+and [Contact](kontakt).
