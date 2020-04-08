@@ -1,59 +1,51 @@
-## Automaty komórkowe
+## Cellular automata
+Cellular automata show how simple rules can generate complex behavior.
 
-Automaty komórkowe pokazują, jak proste reguły mogą generować skomplikowane zachowanie.
+We will show some examples of "Game of Life".
+The rules are such that the two-dimensional grid cells can have two states - be dead or alive. Living cell in the next step is still alive, if it is next to each other 2 or 3 live cells, with a different number of neighbors die. Still a cell come to life in the next step if it is next to each other exactly 3 live neighbors. In the drawings selected living cell is black and the white cell dead.
 
-Pokażemy kilka przykładów z „Gry w życie” (Game of Life).
-Reguły są takie, że na dwuwymiarowej planszy komórki mogą mieć dwa stany – być martwe albo żywe.
-Żywa komórka pozostaje w następnym kroku nadal żywa, jeżeli ma obok siebie 2 albo 3 żywe komórki;
-przy innej liczbie sąsiadów umiera. Martwa komórka ożyje w następnym kroku,
-jeżeli ma obok siebie dokładnie 3 żywych sąsiadów.
-Na rysunkach jest żywa komórka zaznaczona czarnym kolorem i martwa komórka białym.
+Example 1. A simple example of evolution aimed at a state in which cells no longer a state does not change:
 
-Przykład 1. Prosty przykład ewolucji zmierzającej do stanu, w którym już się stan komórek nie zmienia:
-
-1a) Struktury żywych komórek stopniowo znikają aż pozostanie puste pole:
+1a) The structures of living cells gradually disappear until the blank field:
 
 ![rysunek1a](../assets/img/obrazekA1a.jpg)
 
-1b) Dojdzie się do struktury, która się już nie zmienia:
+1b)  Reach to the structure, which is not changing:
 
 ![rysunek1b](../assets/img/obrazekA1b.jpg)
 
-Przykład 2. Proste struktury, które zmieniają się okresowo, i co pewien czas powracają do swojego stanu pierwotnego:
+Example 2. Simple structure, which change periodically, and periodically return to their original state:
 
-2a) Prawdopodobnie najprostsza okresowo zmieniająca się struktura:
+2a) Probably the easiest periodically changing structure:
 
 ![rysunek2a](../assets/img/obrazekA2a.jpg)
 
-2b) I jeszcze jedna trochę bardziej skomplikowana struktura, która się zmienia okresowo:
+2b) I have a little more complicated structure, which changes periodically:
 
 ![rysunek2b](../assets/img/obrazekA2b.jpg)
 
-Jeżeli mamy do dyspozycji odpowiedni program, który nam pokaże sytuacje po podanej liczbie kroków,
-możemy badać, jaki wpływ może mieć minimalna zmiana w początkowej konfiguracji.
+If we have a suitable program that will show us the situations of a given number of steps, we can examine the impact may be minimal change in the initial configuration.
 
-Na przykład jeżeli w początkowej konfiguracji w 2b przesuniemy jedno pole o kilka miejsc,
-wówczas ze struktury, która się co kilka kroków powtarzała, rozpocznie się niespodziewana ewolucja:
+For example, if the initial configuration in 2b move the field a few places, then from the structure, which is repeated every few steps, it will begin an unexpected evolution:
 
-Stan początkowy (w konfiguracji z 2b przesunęliśmy jedno pole o kilka miejsc:
+The initial state (in the configuration of 2b shifted one field of several places):
 
 ![rysunek5a](../assets/img/obrazekA5a.jpg)
 
-Stan po 71 krokach:
+State after 71 steps:
 
 ![rysunek5b](../assets/img/obrazekA5b.jpg)
 
-Stan po 80 krokach:
+State after 80 steps:
 
 ![rysunek5c](../assets/img/obrazekA5c.jpg)
 
-Stan po 409 krokach:
+State after 409 steps:
 
 ![rysunek5d](../assets/img/obrazekA5d.jpg)
 
-Stan po 730 krokach:
+State after 730 steps:
 
 ![rysunek5f](../assets/img/obrazekA5f.jpg)
 
-Widać tu, że zmiana tylko jednego pola może prowadzić do powstania dużej liczby nowych struktur,
-które mogą być znacznie skomplikowane i całkowicie różniące się od początkowej struktury.
+Here we can see that changing just one field may lead to a large number of new structures that can be considerably complicated and completely different from the initial structure.
