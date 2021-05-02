@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## Wprowadzenie
 
 Wszystko się zaczęło od prostego pytania: Jeżeli kiedyś uda nam się nauczyć komputery myśleć,
