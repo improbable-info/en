@@ -6,7 +6,7 @@ An example of a non-classic interpretation of results is the story described by 
 
 The fact that we compute something does not mean that we know how to interpret it. The reality is not only black and white and unequivocal. When making any decision we follow a simplified pattern, even a simple one, and details are the decisive factor what we find important at the respective moment. For example, in the light of the following diagram, can we decide whether **YES** czy **NO**?
 
-![TakNie](../assets/img/`YESNO`.png)
+![YESNO](../assets/img/`YESNO`.png)
 
 Despite other factors it is important at what distance we look at any given phenomenon.
 
