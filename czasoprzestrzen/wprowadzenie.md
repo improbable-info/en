@@ -2,44 +2,16 @@
 
 ### Introduction
 
-Skąd bierze się nasze wyobrażenie o świecie?
-Tylko bardzo mała część jest wynikiem naszych własnych obserwacji i przemyśleń.
-Większość naszych przekonań powstaje na podstawie informacji, które do nas docierają od innych ludzi.
-Najpierw coś słyszeliśmy w domu od rodziców i rodzeństwa, później w szkole od nauczycieli i kolegów,
-o czymś czytaliśmy w książkach i czasopismach. Sporo różnych informacji otrzymujemy z telewizji i z Internetu.
-Gdyby wszystkie te informacje były spójne i tworzyły odpowiedni dla naszych potrzeb obraz świata,
-nie byłoby potrzeby w nic wątpić i nic zmieniać, nawet jeżeli byłby to obraz nieprawdziwy.
-W rzeczywistości otrzymywane informacje nie są ani wystarczające ani spójne.
-Pod wpływem wychowania, emocji i przypadkowych sympatii czy antypatii uznajemy jakieś autorytety i źródła informacji,
-w które wierzymy bardziej niż w inne. Na ich podstawie tworzymy sobie model świata, który uważamy za prawdziwy.
+Where does our perception of the world come from? Only a minor part is a result of our observations and thoughts. Most of our beliefs are based on information we receive from other people. First, we heard something at home from our parents and siblings, later at school from our teachers and peers, something we learned from books and magazines. A significant amount of information we can get from the television or the Internet. If all such information happened to be consistent and created a picture of the world relevant to our needs, we would not have any doubts or make any changes, even if the picture was incorrect. In reality, the obtained information is neither sufficient nor consistent. On the basis of our upbringing, emotions and arbitrary likes and dislikes, we accept some authorities and sources of information which we believe in more than in others. They give us grounds for constituting our model of the world we take as the real one.
 
-Czy możemy samodzielnie sprawdzić, co jest rzeczywiście prawdą, a co tylko przypuszczeniem lub wiarą?
-W niektórych przypadkach możemy próbować. Największym  problemem jest jednak odkrycie nowego rozwiązania tam,
-gdzie wszyscy się zgadzają, gdzie coś wydaje się tak oczywiste, że nawet do głowy nam nie przyjdzie,
-że mogłoby być inaczej.
+Are we really able on our own to verify what the real truth is and what is only our guess or belief? In some cases we can try. However, the greatest problem is to achieve new solutions in domains where everybody considers any given theorem as obvious and therefore agrees with it. In this way it will never come to our minds that it might be different.
 
-To, że nasze wyobrażenie o Wszechświecie może być nieprawidłowe, uświadomiłem sobie w trakcie pisania książki
-"Prawdopodobnie wszystko jest inaczej". Starałem się w niej pokazać - między innymi - jakie wyobrażenie o świecie
-mogłyby sobie w przyszłości wytworzyć inteligentne komputery.
-Spojrzenie na świat z odmiennej perspektywy pokazało mnóstwo zaskakujących możliwości interpretowania zjawisk wokół nas
-i spowodowało powstanie wielu nowych pytań.
-Najciekawszym i najbardziej fascynującym okazał się dla mnie problem geometrii Wszechświata.
+The fact that our perception of the world may be wrong, I realised when writing the book 'Probably everything is different'. I tried to show, among others, what image of the world might be created by intelligent computers in the future. The view of the world from a different perspective offered many surprising possibilities in interpreting various phenomena around us and gave a rise to many new questions. The most interesting and fascinating phenomenon to me appeared to be the geometry of the Universe.
 
-Moje wcześniejsze wyobrażenie było prawdopodobnie podobne do wyobrażenia większości ludzi z mojego otocznia,
-bo ukształtowane było na podstawie nauki w szkole, ogólno dostępnej w księgarniach literatury popularno-naukowej
-i różnych artykułów w czasopismach oraz w Internecie. Nie miałem powodu wątpić w prawdziwość tego obrazu.
-Wątpliwości pojawiły się dopiero wtedy, kiedy zacząłem się zastanawiać, w jaki sposób można przekazywać
-komputerom informacje o świecie, w jaki sposób mogą one je przetwarzać i do jakich wniosków mogłyby dojść.
+My previous perception was probably similar to the perception of most of the people around me because it had been shaped on the basis of the information from school, common scientific literature generally available in bookshops and articles from magazines, or on the Internet. There were no reasons for me to doubt in the truthfulness of such picture. The doubts arose only when I began to think how the information about the world can be transferred to computers, the manner they can process it and what conclusions can be then reached.
 
-Stopniowo zmieniałem swoje zdanie na temat widzialnej części wszechświata, czasu oraz czasoprzestrzeni.
-W naturalny i niezamierzony sposób pojawiły się w moim modelu czasoprzestrzeni zjawiska kwantowe.
-Cząstki i siły są rozumiane w inny sposób.
+Gradually, I commenced to alter my opinion regarding the observable universe, time and space-time. In the natural and unexpected way, the quantum phenomena appeared in my space-time model. In this model, particles and forces are understood in a different way.
 
-Wszechświat może wyglądać inaczej niż sobie wyobrażamy. Obraz, który ukazał się przy spojrzeniu z innej perspektywy,
-różni się wyraźnie od tego, do jakiego jesteśmy przyzwyczajeni.
-Gdybym pokazał tylko wyniki mojej pracy, ich pełne zrozumienie mogłoby być trudne.
-Bardziej celowe może być pokazanie całego rozumowania, które do tego doprowadziło.
-Daje to nie tylko możliwość lepszego zrozumienia przedstawionych pomysłów,
-ale również sposobność ich samodzielnego rozwijania.
+The Universe may look differently than the way we present it. The picture that appeared when taking other perspective varies from the one we are used to. If I showed only the results in this work, it would be difficult to fully understand them. More appropriate is to show the entire path of reasoning. It does not only give the opportunity to understand better the presented ideas, but also enhances the chance to develop them.
 
-## [I. Jak powstaje model Wszechświata](rozdzial1)
+## [I. How the model of the Universe is created](rozdzial1)
