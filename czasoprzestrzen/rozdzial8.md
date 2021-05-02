@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## VIII. Parę słów na temat przestrzeni
 
 Większość ludzi pod pojęciem przestrzeń prawdopodobnie wyobraża sobie trójwymiarową przestrzeń euklidesową.
