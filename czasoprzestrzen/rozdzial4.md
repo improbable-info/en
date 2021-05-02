@@ -2,6 +2,8 @@
 mathjax: true
 ---
 
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## IV. Geometrie nieeuklidesowe i ustalanie odległości
 
 Tak bardzo jesteśmy przyzwyczajeni do geometrii euklidesowej,
