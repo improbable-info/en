@@ -4,7 +4,7 @@ mathjax: true
 
 ## IV. Non-Euclidean geometries and determination of distances
 
-TWe are used to the Euclidean geometry to such an extend that we even take into account the fact that already in the beginning we often assume subconsciously that space is Euclidean. As to even start thinking that it might be otherwise, first, we have to know something about the non-Euclidean geometry. 
+We are used to the Euclidean geometry to such an extend that we even take into account the fact that already in the beginning we often assume subconsciously that space is Euclidean. As to even start thinking that it might be otherwise, first, we have to know something about the non-Euclidean geometry. 
 
 Euclid created his geometries on a flat sheet of paper and he assumed that the sheet can be stretched out in all directions to the infinity. It could be sufficient when the Earth was a little smaller and people immediately would reach the conclusion that there are no infinite plane that every plane is curved, and eventually it will form a sphere. Our perception of space would be probably different.
 
