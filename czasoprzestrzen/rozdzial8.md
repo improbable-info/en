@@ -1,64 +1,21 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## VIII. A few words about space
 
-## VIII. Parę słów na temat przestrzeni
+Most people probably imagine the concept of space as a three-dimensional Euclidean space. For a long time no one could think that it might be otherwise. Why? Because such a model constitutes good estimation of  physical space for short macroscopic distances we usually encounter in life.
 
-Większość ludzi pod pojęciem przestrzeń prawdopodobnie wyobraża sobie trójwymiarową przestrzeń euklidesową.
-Przez długi czas nikomu nawet na myśl nie przyszło, że mogłoby być inaczej. Dlaczego?
-Bo taki model stanowi dobre przybliżenie przestrzeni fizycznej dla niedużych odległości makroskopowych,
-z jakimi normalnie spotykamy w życiu się.
+However, the fact that physical space may not be the Euclidean space is proved by the effect of the curvature of space created by mass and also the examinations of very short distances where quantum phenomena occur.
 
-O tym, że fizyczna przestrzeń może nie być euklidesowa, świadczy jednak efekt zakrzywienia przestrzeni przez masę,
-a także badanie odległości bardzo małych, gdzie pojawiają się zjawiska kwantowe.
+If not the Euclidean space, then what instead? In mathematics the definition of space can be provided more generally as a collection of elements with an additional structure. Some of them can significantly differ comparing to what we usually understand as the concept of space. When we want to create a model corresponding to the real space we need to have a possibility to determine distances in it. What we need is a metric space in which the metrics is defined, that is, a function which specifies distances between every pair of elements of such collection (provided additional conditions are satisfied). Elements of such space are called points. Such space does have to be neither finite, nor coherent. But whether the real space is coherent? Our perception of a coherent space is based on sight which misleads us. When we watch a film we see fluent motion not discrete shots. In objects we see we do not also distinguish swirling atoms. When we describe reality with the use of equations, then we create a model of a coherent space. However, when we use cellular automata, space can be modelled by a complete grid of cells. One should always pay attention to the fact that any model is only an estimation of reality and it does not contain all its properties and the properties it includes are not precisely defined. We also sometimes can interpret wrongly the obtained results.
 
-Jeżeli jednak nie euklidesowa przestrzeń, to jaka? W matematyce można pojęcie przestrzeni zdefiniować dosyć ogólnie,
-jako zbiór elementów z dodatkową strukturą. Niektóre z tych przestrzeni mogą bardzo różnić się od tego,
-co sobie zwykle wyobrażamy pod pojęciem przestrzeni. Jeżeli chcemy stworzyć model odpowiadający rzeczywistej przestrzeni,
-musimy mieć możliwość ustalenia w niej odległości. Potrzebujemy więc przestrzeni metrycznej,
-w której zdefiniowana jest metryka, to znaczy funkcja, która określa odległość między każdą parą elementów tego zbioru
-(przy czym są spełnione jakieś dodatkowe warunki). Elementy takiej przestrzeni nazywamy punktami.
-Taka przestrzeń nie musi być ani nieskończona, ani spójna. Ale czy rzeczywista przestrzeń jest spójna?
-Nasze wyobrażenie o spójnej przestrzeni tworzymy sobie na podstawie wzroku, który nas okłamuje.
-Gdy oglądamy film, widzimy płynny ruch a nie poszczególne klatki filmu. W przedmiotach, które widzimy,
-też nie rozróżniamy poszczególnych wirujących atomów. Jeżeli rzeczywistość opisujemy za pomocą równań,
-to tworzymy model spójnej przestrzeni, natomiast przy wykorzystaniu automatów komórkowych
-przestrzeń może być modelowana za pomocą skończonej sieci komórek. Zawsze trzeba mieć na uwadze,
-że jakikolwiek model jest jedynie  przybliżeniem rzeczywistości i nie zawiera wszystkich jej właściwości,
-a i te cechy, które uwzględnia, nie są opisane dokładnie. Czasami możemy też źle interpretować otrzymane wyniki.
+We may, for example, create a model of space in which the distance between two points  **A** and **B** of the following coordinates
+**A=(x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>)**, **B=(x<sub>2</sub>,y<sub>2</sub>,z<sub>2</sub>)** is defined by the formula **d = | x<sub>2</sub> - x<sub>1</sub> |**. 
+One may see that the distance can be zero not only for identical points, it is also sufficient when the first coordinates are identical. Therefore, it is not about the metrics in its essential meaning, but it allows to call the defined distance pseudo-metrics and examine the properties of such space. We can establish the distance between various points and analyse not precise results because such defined distance can be  short also for two points characterised by the very different the second and the third coordinates. It can be observed that in comparison to the Euclidean space, distances are sometimes significantly shortened. It may be believed that in such space distances are truly shorter and the mathematical model describes it correctly, or another interpretation may be employed. For example, the entire space can be imagined as built from planes parallel to the axis x and the estimated distance in such case does not mean the distance between two points but the distance between two planes in which points are located. When we estimated something, what needs to be always taken into the consideration, is actually the question what really we estimated.
 
-Można na przykład utworzyć model przestrzeni, w którym odległości dwóch punktów **A** i **B** o współrzędnych
-**A=(x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>)**, **B=(x<sub>2</sub>,y<sub>2</sub>,z<sub>2</sub>)** zdefiniujemy wzorem **d = | x<sub>2</sub> - x<sub>1</sub> |**. 
-Widać, że odległość może być zerowa nie tylko dla identycznych punktów, wystarczy że będą identyczne pierwsze współrzędne.
-Nie chodzi więc o metrykę w ścisłym słowa znaczeniu, ale możemy w ten sposób zdefiniowaną odległość  nazwać pseudometryką
-i badać właściwości takiej przestrzeni. Możemy obliczać odległości różnych punktów i podziwiać dziwne wyniki,
-gdyż tak zdefiniowana odległość może być mała również dla dwóch punktów bardzo różniących się drugą i trzecią współrzędną.
-Widać, że w porównaniu z przestrzenią euklidesową dochodzi czasami do znacznego skrócenia odległości.
-Można przyjąć stanowisko, że w takiej przestrzeni odległości są rzeczywiście krótsze
-a matematyczny model prawidłowo ją opisuje, albo można szukać innej interpretacji.
-Można na przykład całą przestrzeń wyobrazić sobie poukładaną z płaszczyzn prostopadłych do osi x i obliczona odległość
-w tym wypadku nie oznacza odległości dwóch punktów, tylko odległość dwóch płaszczyzn, w których tę punkty się znajdują.
-Jeżeli coś obliczamy, to zawsze trzeba zastanowić się, co właściwie obliczyliśmy.
+Now let us analyse what properties the real space has. People used to imagine it as a static scene in which various objects move. The fact that space is not an absolutely independent scene was already discovered by Newton. He understood that it cannot be stated whether two events occurred at the same location when they happened at different moments. That is because no state at rest is established. When we, for example, throw a ball and catch it in the same place, is it really the same place? We believe that yes. However, if someone observed us from the Cosmos he would notice that the Earth moved and rotated and we are in a completely different location in space. A similar phenomenon is with the entire galaxy that moves and rotates and therefore there is no static point which wouldn’t move.
 
-Zastanówmy się teraz, jakie właściwości ma rzeczywista przestrzeń. Kiedyś ludzie wyobrażali ją sobie, jako statyczną scenę,
-w której poruszają się różne obiekty. To, że przestrzeń nie jest absolutną niezależną sceną uświadomił sobie już Newton.
-Zrozumiał, że nie można stwierdzić, czy dwa zdarzenia zaszły w tym samym miejscu, jeżeli zaszły w różnych chwilach.
-Wynika to z tego, że nie ma wyróżnionego stanu spoczynku. Jeżeli na przykład wyrzucamy piłeczkę do góry
-i ponownie ją łapiemy w tym samym miejscu, czy jest to naprawdę w tym samym miejscu? Nam się wydaje, że tak.
-Jeżeli jednak oglądałby nas ktoś z kosmosu. to widziałby, że Ziemia przemieściła się i obróciła
-i że jesteśmy już w całkiem innym miejscu przestrzeni. Podobnie przemieszcza się i obraca cała galaktyka
-i nie ma nigdzie stałego punktu, który by się nie poruszał.
+At this stage one could already come to the conclusion that time and space can be replaced as they are interchangeable. However, instead of the expression 'time flows' one should say 'we flow in time'. Provided that I am sitting in one place and I think that I do not move in space, I can state that I move only in time. For the observer in the Cosmos I also move in space. In other words, what for one observer is moving in time, for the other may be perceived as moving in space.
 
-Już na tym etapie można było dojść do wniosku, że czas i przestrzeń są w pewnym sensie zamienne.
-Tylko zamiast pojęcia "czas płynie" należy użyć sformułowania "my płyniemy w czasie".
-Jeżeli ja siedzę w miejscu i wydaje mi się, że nie poruszam się w przestrzeni, to mogę stwierdzić,
-że poruszam się tylko w czasie. Dla obserwatora z kosmosu poruszam się również w przestrzeni.
-Czyli to, co jeden obserwator odbiera jako przemieszczanie się w czasie,
-inny może odbierać jako przemieszczanie się w przestrzeni.
+*If we assume that time and space are somehow interchangeable and we believe that our Universe exists only within finite time, than all indicates that space should be also finite.*
 
-*Jeżeli przyjmiemy, że czas i przestrzeń są w jakiś sposób zamienne, i uważamy,
-że nasz Wszechświat istnieje tylko przez skończony czas, to wszystko wskazuje na to,
-że przestrzeń także powinna być skończona.*
+Anyway we see that time and space somehow are correlated and should be examined simultaneously. Therefore, introduction to the concept of space-time appeared to be very useful.
 
-W każdym razie widzimy, że czas i przestrzeń są w jakiś sposób powiązane i trzeba je badać jednocześnie.
-Bardzo przydatne okazało się wprowadzenie pojęcia czasoprzestrzeni.
-
-## [IX. Pierwsze uwagi o czasoprzestrzeni ](rozdzial9)  
+## [IX. Initial remarks on space-time](rozdzial9)  
