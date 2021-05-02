@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## II. Widzialna część Wszechświata
 
 *To, że w ogóle mamy jakieś informacje o kosmosie zawdzięczamy temu, że kosmos jest wypełniony różnymi falami.
