@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## Literatura
 
 **Stephen Hawking: Krótka historia czasu** - prawdopodobnie najbardziej znana popularna książka na temat Wszechświata
