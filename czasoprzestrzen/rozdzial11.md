@@ -1,6 +1,8 @@
 ---
 mathjax: true
 ---
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## XI. Zespolony czas i interwał czasoprzestrzenny
 
 Zostawmy na chwilę problem kształtu całego Wszechświata i skupmy się na małym kawałku czasoprzestrzeni,
