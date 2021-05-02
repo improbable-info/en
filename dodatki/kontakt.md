@@ -2,4 +2,4 @@
 
 ### Jiří Šrajer
 
-[pl@improbable.info](mailto:pl@improbable.info)
+[jiri.szrajer@gmail.com](mailto:jiri.szrajer@gmail.com)
