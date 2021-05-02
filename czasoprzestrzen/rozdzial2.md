@@ -1,139 +1,67 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## II. The observable Universe
 
-## II. Widzialna część Wszechświata
+*The fact that we have any information about Cosmos at all it is because Cosmos is full of various waves. The picture of the Universe we imagine only on the basis of waves which reach us and the waves we can record. Supported by experience concerning short distances we believe that the observed objects are in the direction from which the emitted light reaches us and the distance equals to the light path from the object to us. However, it does not also have to be true...*
 
-*To, że w ogóle mamy jakieś informacje o kosmosie zawdzięczamy temu, że kosmos jest wypełniony różnymi falami.
-Obraz wszechświata budujemy tylko na podstawie fal, które docierają do nas i które potrafimy zarejestrować.
-Na podstawie doświadczenia z małych odległości uważamy, że widziane obiekty znajdują się w kierunku,
-z którego do nas dochodzi od nich światło i w odległości równej torowi światła od obiektu do nas.
-Jednak nie zawsze to musi być prawda ...*
+My analysis of the geometry of the Universe has commenced from the following remarks:
 
-Moje rozważania na temat geometrii wszechświata rozpoczęły się od następujących uwag:
+In view of the limited speed of light we do not see the objects in the sky the way they truly are at the moment of observation but only the way they appeared some time ago. For example, we see the Sun the way it looked about 8 minutes ago, the closest stars the way they looked few years ago and distant galaxies billions years ago. The most distant objects are the oldest ones. One may imagine that they are placed in a giant sphere of the radius of few million of light-years.
 
-Ze względu na skończoną szybkość światła nie widzimy obiektów na niebie takimi, jakimi są w tej chwili,
-tylko jak wyglądały jakiś czas temu. Słońce widzimy tak, jak wyglądało około 8 minut temu,
-najbliższe gwiazdy kilka lat temu a oddalone galaktyki miliardy lat temu.
-Najbardziej oddalone od nas obiekty są najstarsze.
-Można sobie wyobrazić, że znajdują się na ogromnej sferze o promieniu wielu miliardów lat świetlnych.
+Nevertheless, provided the universe was small at the beginning then the oldest sphere cannot be big. It is not especially important whether in such fictitious sphere there are concrete objects or not, even the fact whether there was any light that time. Assuming that at the beginning the Universe was in one point, for us such point is the furthest point located from all. And the thing that is at the furthest distance from us we consider as a huge sphere...
 
-Jednak, jeżeli wszechświat na początku był mały, to ta najstarsza sfera nie może być duża.
-Nie ma to specjalnego znaczenia, czy na tej fikcyjnej sferze znajdują się jakieś konkretne obiekty
-czy też nie, nawet to, czy w ogóle już wtedy było światło.
-Jeżeli wszechświat na początku znajdował się w jednym punkcie, to dla nas ten punkt znajduje się najdalej
-ze wszystkiego. I to co jest najdalej od nas, wydaje nam się być ogromną sferą ...
+How can we explain that something small seems to be so big to us? At first, it seems to be an absurd. How the entire Universe can be inside a small sphere or even located at one point?  
 
-Jak wytłumaczyć, że coś małego wydaję nam się tak ogromne? W pierwszej chwili zdaje się to być absurdalne.
-Jak cały wszechświat może być wewnątrz małej sfery, czy nawet jednego punktu? 
+*Before going any further, we need to perform the following imaginary experiment. Let us imagine that at the Earth’s surface lights are deployed and every light is connected to an optical fibre along meridians. We are sitting in a round room on the North Pole and around us there are screens on which we can observe all the lights. Looking out the window we see straight optical fibres and we imagine that every light is in the form of a straight line going in the direction the optical fibre is connected. We can also determine the length of every optical fibre (e.g. by sending through the optical fibre a light signal and wait for its reflection). Such length is perceived to be the length of the light in the straight line from us. The points at the same distances from us will be positioned in latitude circles.*
 
-*Zanim pójdziemy dalej, zróbmy następujący eksperyment myślowy.
-Wyobraźmy sobie, że na powierzchni kuli ziemskiej są rozmieszczone światełka i do każdego z nich
-jest pociągnięty światłowód wzdłuż południków.
-My siedzimy w okrągłym pomieszczeniu na biegunie północnym i dookoła mamy ekrany,
-na których możemy obserwować wszystkie światełka.
-Patrząc przez okno widzimy prosto naciągnięte światłowody, i wyobrażamy sobie,
-że każde światełko znajduje się w linii prostej biegnącej w kierunku, w którym podłączony jest światłowód.
-Możemy też ustalić długość każdego światłowodu
-(na przykład przez wysłanie światłowodem sygnału świetlnego i zaczekanie na jego odbicie).
-Tą długość postrzegamy, jako odległość światełka od nas w linii prostej.
-Punkty jednakowo od nas oddalone będą leżały na równoleżnikach.*
+*If we are certain that all lights are placed at the same plane, then on a sheet of paper we can draw an adequate map. The circles of increasingly bigger radius will correspond to the respective circles of lattitude which are increasingly distant from us. When we cross the equator, the circumferential length of the latitude circles will be shorter but the radii of the circles on our map will be still growing. The furthest point which we can see is the South Pole. It can be seen from every direction in which we look and for us it will be as a huge circle which covers all other points...*
 
-*Jeżeli będziemy przekonani, że wszystkie światełka znajdują się w jednej płaszczyźnie,
-to możemy na kartce papieru narysować odpowiednią mapę.
-Poszczególnym równoleżnikom coraz bardziej od nas oddalonym będą odpowiadały koła o coraz większym promieniu.
-Kiedy przekroczymy równik, długości równoleżników będą się zmniejszać,
-ale promienie okręgów na naszej mapie będą dalej rosły.
-Najbardziej odległym punktem, który możemy zobaczyć, jest biegun południowy.
-Zobaczymy go w każdym kierunku, w którym popatrzymy i jawi się nam on jako ogromne koło,
-które zawiera wszystkie inne punkty ...*
+Let us return to the problem how we can imagine the deployment of objects in space-time and determine the light path in the expanding Universe. My reasoning was the following:
 
-Wróćmy do problemu, jak wyobrazić sobie rozmieszczenie obiektów w czasoprzestrzeni
-i ustalić tor światła w rozszerzającym się Wszechświecie. Mój tok myślenia był następujący:
-
-Cały widzialny Wszechświat możemy sobie wyobrazić jakoby poukładany ze sfer wokół nas o coraz większym promieniu.
-Im większy promień, tym starsza sfera (rys.1).
+The entire observable Universe we can imagine as built from spheres around us with an increasingly growing radius. The bigger radius, the older the sphere is (Fig.1).
 
 ![rysunek1](../assets/img/rysunek1.png)
 
-Rysunek 1.
+Figure 1.
 
-Jeżeli dodamy czas jako następny wymiar i każdą sferę umieścimy w odpowiednim czasie,
-to sfery utworzą czterowymiarowy stożek (rys.2).
+When we add time as another dimension and we place each sphere in the corresponding time then the spheres will build a four-dimensional cone (Fig.2).
 
 ![rysunek2](../assets/img/rysunek2.png)
 
-Rysunek 2.
+Figure 2.
 
-*Jeżeli ktoś ma trudności z wyobrażeniem sobie czterowymiarowego stożka,
-może odjąć jeden wymiar i wyobrazić sobie tylko przekrój przez widzialny Wszechświat.
-Zamiast sfer, które przetnie w myśli płaszczyzną, otrzyma układ koncentrycznych okręgów w płaszczyźnie,
-które po dodaniu czasu, jako następnego wymiaru utworzą zwykły stożek.*
+*If there is anyone who has difficulties with imagining a four-dimensional cone, someone can remove one dimension and imagine only a cross-section through the observable Universe. Instead of spheres which are cut through in his/her imagination by using a plane, then he/she will receive a system of concentric circles in the plane. When adding time as a further dimension, in this way, a simple cone can be created.*
 
 
-Jeżeli Wszechświat rozszerza się, to przy cofaniu w czasie musi się kurczyć. Sfery najstarsze muszą być małe (rys.3). 
+When the Universe expands then at going back in time it must shrink. The oldest spheres must by small (Fig.3). 
 
 ![rysunek3](../assets/img/rysunek3.jpg)                       
 
-Rysunek 3.
+Figure 3.
 
 
-Obiekty, które nam wydają się bardzo od siebie odlegle, mogą być w czasoprzestrzeni blisko siebie (rys.4).
+The objects we perceive as distant, in space-time may be close to each other (Fig.4).
 
 ![rysunek4](../assets/img/rysunek4.jpg)
 
-Rysunek 4.
+Figure 4.
 
-Jeżeli wyobrazimy sobie widzialną część Wszechświata,
-jako odpowiednio pomniejszone i rozłożone w czasoprzestrzeni sfery,
-to rozwiąże się jednocześnie kilka problemów kosmologicznych.
-Jednorodność promieniowania tła przestanie być problemem, jeżeli uświadomimy sobie,
-że promieniowanie tła, chociaż dociera do nas ze wszystkich stron z bardzo dużych odległości,
-przychodzi z małego obszaru czasoprzestrzeni (rys.5).
+When we imagine the observable Universe, as respectively smaller and deployed in space-time spheres, then few more cosmological problems will be solved at once. Homogeneity of the background radiation ceased to be a problem when we realise that the background radiation although it reaches us from every direction and very long distances, it comes from a small area of space-time (Fig.5).
 
 ![rysunek5](../assets/img/rysunek5.jpg)
 
-Rysunek 5.
+Figure 5.
 
-Widać, że w obserwowalnym Wszechświecie nie ma obszarów przyczynowo rozłącznych,
-bo im są obiekty dalej od nas, tym są bliżej do siebie.
-Nie potrzebna jest kosmiczna inflacja,
-czyli ogromne zwiększenie rozmiarów Wszechświata w ułamku sekundy,
-bo do ogromnego rozciągnięcia najstarszych sfer dochodzi tylko w naszym umyśle.
-Zrozumiemy, że jeżeli ktoś wyobraża sobie zagięty obszar czasoprzestrzeni,
-jako niezakrzywioną trójwymiarową przestrzeń, to w takiej przestrzeni
-oddalone od nas obszary są rozciągnięte podobnie jak obszary na płaskiej mapie globu.
-W konsekwencji w takiej przestrzeni pozornie brakuje ogromnej ilości materii i energii ...
+Considering the above, it has been proven that in the observable Universe there are not any causatively disjunct areas, because the more distant the objects are, the closer they are to each other. Cosmic inflation, that is a huge magnification of the Universe size in a fraction of a second, will become not essential, because the expansion of the oldest spheres occurs only in our imagination. We understand that when one imagines a curved area of space-time as a non-curved three-dimensional space, then in such space distant objects  are expanded similarly to the areas on the flat map of the globe. In consequence, such space apparently lacks a huge amount of matter and energy...
 
-Czy z tego, co do tej pory pokazaliśmy, wynika coś dotyczącego geometrii przestrzeni?
+Does anything that has been presented so far refer to the geometry of space?
 
-Tylko tyle, że na podstawie bezpośrednich obserwacji nie można stwierdzić,
-czy przestrzeń jest zakrzywiona czy niezakrzywiona.
-To, co sobie wyobrażamy, jako niezakrzywioną trójwymiarową przestrzeń,
-jest poskładane z różnych sfer w jakiś sposób rozmieszczonych w czasoprzestrzeni,
-które na dodatek widzimy rozciągnięte na różnorakie sposoby.
+Only that under direct observations one cannot state whether the space is curved or non-curved. The object we image as a non-curved three-dimensional space is built from various spheres somehow deployed in space-time which additionally we see as expanded in a divergent way.
 
-Założenie, że czas jest liniowy i czasoprzestrzeń można rozumieć,
-jako poszczególne przestrzenie chwilowe poukładane obok siebie wzdłuż linii czasu,
-nie musi być prawdziwe. Bez względu na to, widzialny Wszechświat można rozumieć, jako system sfer
-o różnych parametrach czasowych.
+The assumption that time is linear and space-time can be understood as respective momentary spaces arranged next to each other along the timeline, does not have to be true. Regardless the above, the observable Universe can be seen as a system of spheres of different time parameters.
 
-Niezależnie od tego, czy przestrzeń jest zakrzywiona czy płaska, z każdej przestrzeni chwilowej
-widzimy tylko i wyłącznie sferę. To nie daje żadnej możliwości ustalenia krzywizny przestrzeni.
+Irrespectively of the fact whether space is curved or flat what we only see from every momentary space is a sphere. It does not give any grounds for stipulating the curvature of space.
 
-Widać jednocześnie, że do uzyskania prawidłowego obrazu Wszechświata należy ustalić
-rozmieszczenie obiektów w czasoprzestrzeni. I tu pojawia się kolejny problem.
-Jak ustalać odległości w czasoprzestrzeni? W modelach matematycznych używany jest w tym celu
-interwał czasoprzestrzenny. Jeżeli spróbujemy użyć go w praktyce, otrzymamy wartość zerową
-dla wszystkich obiektów, które w danej chwili widzimy.
-Okazuje się, że interwał czasoprzestrzenny w obserwowanym Wszechświecie nie jest odległością
-dwóch zdarzeń w czasoprzestrzeni, ale odległością sygnału świetlnego związanego z jednym zdarzeniem,
-od drugiego zdarzenia.
+Simultaneously, what it is observed is that for obtaining a proper picture of the Universe, the deployment of objects in space-time needs to be determined. And here another problem arises. How to determine distances in space-time? For such purpose in mathematical models the space-time interval is used. When we want to employ it, in reality we will receive a zero value for all objects we see at any given moment. It appears that the space-time interval in the observable Universe is not the distance of two events in space-time but it is the distance of a light signal related to one event, from the other event.
 
-Jeżeli chcemy ustalić prawidłowe rozmieszczenie obiektów we Wszechświecie,
-to musimy znaleźć bardziej odpowiednią definicję odległości w czasoprzestrzeni.
-Zadanie nie jest proste. Aby dobrze zrozumieć problem musimy przeanalizować całą drogę
-powstawania pojęcia czasoprzestrzeni i ustalania w niej odległości.
-Następnie musimy ustalić, przy jakich założeniach był utworzony interwał czasoprzestrzenny
-i które z tych założeń mogą być niewłaściwe. Następnie musimy znaleźć jakieś inne możliwości.
-Do tego będziemy potrzebować trochę matematyki. Postaram się zrobić to w jak najłagodniejszej formie.
+When we want to determine the right deployment of objects in the Universe we must find the most reliable definition of distance in space-time. This task does not belong to the easy ones. As to understand the problem correctly, we need to analyse the entire way the concept of space-time was formulated, and we also need to estimate the distance in space-time. Later, we need to determine what assumptions were employed to create the space-time interval and which of the assumptions may be incorrect. Then, we have to find other possibilities. For that purpose some mathematics will be needed. I will try to do it in most easy to understand way.
 
-## [III. Matematyka i mózg](rozdzial3)
+## [III. Mathematics and the brain](rozdzial3)
