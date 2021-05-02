@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## V. Kilka zdań o liczbach zespolonych
 
 Kto nie zna liczb zespolonych, może być zdziwiony, że coś takiego w ogóle istnieje.
