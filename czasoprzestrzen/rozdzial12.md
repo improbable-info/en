@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## XII. Wiry i deformacje czasoprzestrzeni
 
 Spróbujmy sprawdzić, jak w naszym modelu będzie wyglądał ruch przyspieszony i grawitacja.
