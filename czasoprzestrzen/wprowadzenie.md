@@ -1,6 +1,6 @@
 (work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
 
-### Wprowadzenie
+### Introduction
 
 Skąd bierze się nasze wyobrażenie o świecie?
 Tylko bardzo mała część jest wynikiem naszych własnych obserwacji i przemyśleń.
