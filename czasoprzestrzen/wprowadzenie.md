@@ -1,5 +1,3 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
-
 ### Introduction
 
 Where does our perception of the world come from? Only a minor part is a result of our observations and thoughts. Most of our beliefs are based on information we receive from other people. First, we heard something at home from our parents and siblings, later at school from our teachers and peers, something we learned from books and magazines. A significant amount of information we can get from the television or the Internet. If all such information happened to be consistent and created a picture of the world relevant to our needs, we would not have any doubts or make any changes, even if the picture was incorrect. In reality, the obtained information is neither sufficient nor consistent. On the basis of our upbringing, emotions and arbitrary likes and dislikes, we accept some authorities and sources of information which we believe in more than in others. They give us grounds for constituting our model of the world we take as the real one.
