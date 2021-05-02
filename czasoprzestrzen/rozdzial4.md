@@ -2,89 +2,38 @@
 mathjax: true
 ---
 
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## IV. Non-Euclidean geometries and determination of distances
 
-## IV. Geometrie nieeuklidesowe i ustalanie odległości
+TWe are used to the Euclidean geometry to such an extend that we even take into account the fact that already in the beginning we often assume subconsciously that space is Euclidean. As to even start thinking that it might be otherwise, first, we have to know something about the non-Euclidean geometry. 
 
-Tak bardzo jesteśmy przyzwyczajeni do geometrii euklidesowej,
-że nawet nie zdajemy sobie sprawy z tego, że często już na początku nieświadomie zakładamy,
-że przestrzeń jest euklidesowa. Żeby w ogóle dopuścić myśl, że może być inaczej,
-musimy najpierw wiedzieć coś  na temat geometrii nieeuklidesowych.
+Euclid created his geometries on a flat sheet of paper and he assumed that the sheet can be stretched out in all directions to the infinity. It could be sufficient when the Earth was a little smaller and people immediately would reach the conclusion that there are no infinite plane that every plane is curved, and eventually it will form a sphere. Our perception of space would be probably different.
 
-Euklides tworzył swoją geometrie na płaskiej kartce i zakładał,
-że kartkę można rozciągnąć we wszystkich kierunkach w nieskończoność.
-Może wystarczyłoby, gdyby Ziemia była trochę mniejsza i ludzie od razu doszliby do wniosku,
-że nie ma nieskończonej płaszczyzny, że każda płaszczyzna zagina się i w końcu utworzy kulę.
-Nasze wyobrażenie o przestrzeni byłoby wtedy prawdopodobnie inne.
+On the surface of a sphere the geometry looks different than on the plane. Straight lines are not infinite, they get curved and eventually they form circles. We can construct various triangles or circles but the sum of angles in a triangle will be always more than 180 degrees and the circumference of a circle will be always less than 2πr. The difference will be bigger, the bigger the area of a triangle or circle is. Yet when we limit ourselves to small space on the surface of a sphere then the differences regarding the Euclidean geometry will be minor. According to our experience, a fairly accurate map of a small area of the Earth surface can be prepared. In other words, one can assume that such fraction of the surface of a sphere is flat.
 
-Na powierzchni kuli geometria wygląda inaczej niż na płaszczyźnie.
-Linie proste nie są nieskończone, tylko zaginają się i w końcu tworzą okręgi.
-Można konstruować różne trójkąty lub koła, ale suma kątów w trójkącie będzie zawsze większa
-niż 180 stopni i obwód kola zawsze będzie mniejszy niż 2πr. Różnica będzie tym większa,
-im większe będzie pole trójkąta lub kola. Jeżeli jednak ograniczymy się do malej przestrzeni
-na powierzchni kuli, to różnice w stosunku do geometrii euklidesowej będą nieznaczne.
-Z doświadczenia wiemy, że można zrobić dosyć dokładną mapę małego obszaru powierzchni Ziemi,
-czyli uznać ten kawałek powierzchni kuli za plaski.
+When the Earth is concerned, one should pay attention to the differences between the non-Euclidean geometry in the sphere and the sphere described as a curved surface plunged into a three-dimensional Euclidean space.
 
-Jeżeli mówimy o Ziemi, trzeba zwrócić uwagę na różnice pomiędzy nieeuklidesową geometrią na sferze
-i sferą opisaną, jako zakrzywiona powierzchnia zanurzona w trójwymiarowej przestrzeni euklidesowej.
+In the Euclidean space spherical coordinates instead of orthogonal coordinates can be introduced and we still will be in the Euclidean space, which is non-curved. In a simple way, spherical coordinates can be replaced with the orthogonal ones, and the other way. The spherical coordinates are used in astronomy where deployment of objects we describe with the use of angles and distances estimated on the basis of the brightness of objects when adopting few additional assumptions. When space is the Euclidean space, the angles in degrees can be easily converted into radians and, for example, the diameter of the galaxy can be determined, provided we hold the knowledge of its distance and we measure the angle under which we see it. When space is curved, however, the diameter of the galaxy may be different than the computations indicate. In case of a spherical space the real diameter of the galaxy must be smaller. Can we observe something which would lead us to the conclusion that space is curved? Yes. We would see distant areas stretched out and we would image, for example, that galaxies rotate too fast in relation to their masses. And this is exactly what we observe. However, instead of accepting geometrical interpretation as evidence for a curved space, the dark matter was conceived... 
 
-W przestrzeni euklidesowej można wprowadzić współrzędne sferyczne zamiast ortogonalnych
-i nadal będziemy w przestrzeni euklidesowej, która jest niezakrzywiona.
-W prosty sposób można zamienić współrzędne sferyczne na ortogonalne i na odwrót.
-Współrzędnych sferycznych używa się w astronomii, gdzie rozmieszczenie obiektów
-opisujemy za pomocą kątów i odległości obliczonej na postawie jasności obiektów
-przy użyciu kilka dodatkowych założeń. Jeżeli przestrzeń jest euklidesowa,
-można łatwo przeliczyć kąty w stopniach na radiany i obliczyć na przykład średnicę galaktyki,
-jeżeli znamy jej odległość i zmierzymy kąt, pod jakim ją widzimy.
-Natomiast, jeżeli przestrzeń jest zakrzywiona, średnica galaktyki może być inna
-niż wynika z tych obliczeń. W przypadku przestrzeni sferycznej rzeczywista średnica galaktyki
-musi być mniejsza. Czy można zaobserwować coś, z czego byłoby można wywnioskować,
-że przestrzeń jest zakrzywiona? Tak. Oddalone obszary widzielibyśmy rozciągnięte
-i musiałoby nam się na przykład wydawać, że galaktyki obracają się za szybko w stosunku do ich masy.
-I to jest dokładnie to, co obserwujemy. Jednak zamiast przyjęcia interpretacji geometrycznej,
-jako dowodu na zakrzywienie przestrzeni, wymyślono ciemną materię...
+At least few words should be also added about a hyperbolic geometry. Contrary to the Euclidean geometry, in which exactly one parallel straight line passes through the point outside the straight line, in the hyperbolic geometry there is an infinite number of such straight lines.
 
-Należy jeszcze dodać przynajmniej parę słów na temat geometrii hiperbolicznej.
-W odróżnieniu od geometrii euklidesowej, w której przez punkt poza prostą przechodzi
-dokładnie jedna prosta równoległa, w geometrii hiperbolicznej takich prostych jest
-nieskończenie wiele.
-
-Następne różnice są na przykład takie, że suma kątów w trójkącie jest tu mniejsza niż 180 stopni
-i obwód koła jest większy niż 2πr. Jako przykład powierzchni hiperbolicznej podaje się często siodło.
+Further differences are, for example, that the sum of angles in a triangle here is less than 180 degrees and the circumference of a circle is more than 2πr. A saddle is frequently an example of a hyperbolic surface.
  
-*Geometria hiperboliczna może pojawić się również na kuli,
-jeżeli promień kuli będzie liczbą urojoną. (Liczba urojona jest liczbą zespoloną,
-która podniesiona do kwadratu daje wartość rzeczywistą ujemną).
-Liczby zespolone są potrzebne do opisania niektórych zjawisk naszego świata i wydaje się,
-że mogą być potrzebne i do opisu geometrii Wszechświata.
-Do tego tematu wrócimy w następnym rozdziale.*
+*Hyperbolic geometry may also appear on a sphere provided that the radius of a sphere will be an imaginary number. (An imaginary number is a complex number which is squared and it gives a negative real value). Complex numbers are needed to define some phenomena of our world and it seems that they can also serve to describe the geometry of the Universe. We will return to this topic in the  next chapter.*
 
-Ze względu na nasze "przyzwyczajenie się" do geometrii Euklidesowej wyobrażamy sobie
-zakrzywione powierzchnie zanurzone w niezakrzywionej przestrzeni większego wymiaru.
-W ten sposób łatwiej jest nie tylko je sobie wyobrazić, ale i opisać. Nie musi tak jednak być.
-Zakrzywienie powierzchni lub przestrzeni jest określone przez wzajemne odległości ich punktów.
-W przestrzeni euklidesowej obowiązuje zasada, że można odległość każdych dwóch punktów **x** i **y**
-o współrzędnych **x=(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>)**, **y=(y<sub>1</sub>,y<sub>2</sub>,...,y<sub>n</sub>)** zdefiniować wzorem
+Because we  “got used to” the Euclidean geometry we imagine curved surfaces in a non-curved high-dimensional space. Thus, it can be easier to picture it and describe. However, it  does not have to be that way. The curvature of surface or space is determined by mutual distances of their points. In the Euclidean space the principle that is applied is that the distance of every two points  **x** and **y**
+of coordinates   **x=(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>)**, **y=(y<sub>1</sub>,y<sub>2</sub>,...,y<sub>n</sub>)** can be defined by the formula
 	
 $$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
-Jeżeli jest inaczej, to przestrzeń nie jest euklidesowa.
-Różnych możliwości jest sporo i z niektórymi zapoznamy się później.
+Otherwise the space is not the Euclidean space. There are various possibilities and some of them we will discuss later.
 
-Wzór wygląda dosyć skomplikowanie, w zasadzie oznacza tylko tyle,
-że w przestrzeni euklidesowej obowiązuje uogólnione twierdzenie Pitagorasa.
-Jeżeli ograniczymy się do trójwymiarowej przestrzeni z osiami **x**, **y**, **z**
-i jeden z punktów powiążemy z początkiem współrzędnych, to wzór na odległość otrzyma kształt
+The formula looks fairly complicated, basically it means that in the Euclidean space the generalised Pythagorean theorem applies. If we limit ourselves to the three-dimensional space with the axes **x**, **y**, **z**
+and we combine one from the points with the beginning of coordinates, the distance formula will be the following
 
 $$ d = \sqrt {x^2+y^2+z^2}  $$,
 
-gdzie **x**, **y** i **z** oznaczają odpowiednie współrzędne oddalonego punktu.
-Taki zapis jest prostszy i bardziej przejrzysty.
-W razie potrzeby można w każdej chwili powrócić do ogólniejszej formy zapisu.
+where **x**, **y** i **z** mean respective coordinates of the distant point. Such form is simple and more transparent. If necessary, one can go back to the general form of the formula at any moment.
 
-Ze względu na to, że w naszych rozważaniach będą potrzebne nie tylko liczby rzeczywiste,
-ale także liczby zespolone, których na co dzień się nie używa,
-przydatne może być podanie kilku informacji na ten temat.
+In the light of the above considerations, in our analysis not only real numbers but also complex numbers which are not used in everday life, will be needed, some information within this respect may also be useful.
 
-## [V. Kilka zdań o liczbach zespolonych](rozdzial5)
+## [V. Few words about complex numbers](rozdzial5)
