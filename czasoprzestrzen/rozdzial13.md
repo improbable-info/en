@@ -1,36 +1,17 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## XIII. Conclusion
 
-## XIII. Zakończenie
+The reality is always more interesting than any other model. As to reflect the reality in most effective way, models become increasingly expanded. In this way the adopted mathematical modelling is complicated to such an extend that apart from experts in the respective field nobody really understands it. However, understanding a model does not necessarily mean understanding the reality. For example, equations do not explain how we should interpret the results.
 
-Rzeczywistość zawsze jest bogatsza niż jakikolwiek model.
-W celu jak najlepszego odzwierciedlenia rzeczywistości modele stają się coraz bardziej rozbudowane
-i używany aparat matematyczny jest na tyle skomplikowany, że oprócz specjalistów w danej dziedzinie nikt go nie rozumie.
-Jednak zrozumienie jakiegoś modelu nie oznacza zrozumienia rzeczywistości.
-Równania nic nie mówią o tym, w jaki sposób mamy interpretować wyniki obliczeń.
+An example of a non-classic interpretation of results is the story described by Marcel Granet in his book  "La pensée chinoise" (Chinese thinking). He writes about a legend in which generals before the battle did not know what to do, whether to attack or to withdraw. Unable to make any decision they agreed to vote. It became clear that three of them wanted to attack and eight of them wanted to withdraw. It would seem that the result should be interpreted that they decided to withdraw. Yet as a result of such voting the generals decided to attack because they interpreted the number „three” as the number that expresses unanimity. They attacked and won.
 
-Przykładem nietypowej dla nas interpretacji wyniku obliczeń jest historia opisana przez Marcela Graneta
-w jego książce "La pensée chinoise". Opisuje legendę, w której generałowie zastanawiali się przed bitwą,
-czy przypuścić atak, czy też się wycofać. Nie mogąc się zdecydować, postanowili głosować.
-Okazało się, że trzech z nich opowiada się za atakiem, ośmiu zaś za odwrotem.
-Wydawałoby się, że wynik trzeba zinterpretować tak, że trzeba się wycofać.
-A jednak w wyniku tego głosowania generałowie postanowili zaatakować,
-bo liczba "trzy" dla nich była liczbą wyrażającą jednomyślność. Zaatakowali i odnieśli zwycięstwo.
+The fact that we compute something does not mean that we know how to interpret it. The reality is not only black and white and unequivocal. When making any decision we follow a simplified pattern, even a simple one, and details are the decisive factor what we find important at the respective moment. For example, in the light of the following diagram, can we decide whether **YES** czy **NO**?
 
-Fakt, że coś obliczymy jeszcze nie oznacza, że wiemy jak to interpretować.
-Rzeczywistość nie jest czarno-biała i jednoznaczna.
-Przy podejmowaniu jakiekolwiek decyzji postępujemy według jakiegoś uproszczonego schematu,
-i zależy, jakie szczegóły są dla nas w danej chwili ważne.
-Na podstawie tego, co jest napisane poniżej, decydujemy się na **TAK** czy **NIE**?
+![TakNie](../assets/img/`YESNO`.png)
 
-![TakNie](../assets/img/TakNie.png)
+Despite other factors it is important at what distance we look at any given phenomenon.
 
-Bez względu na inne czynniki, ważne jest to, z jakiej odległości patrzymy.
+In the case of short distances, we may think that the light passes with an infinite speed and everything is the way we see it. At such assumption we may believe that we see a three-dimensional space around us.
 
-W przypadku małych odległości możemy uważać, że światło porusza się z nieskończoną prędkością,
-że wszystko jest takie, jakim to widzimy. Przy tym założeniu możemy uważać, że wokół siebie widzimy trójwymiarową przestrzeń.
+When we observe areas at such a distance that the light comes to us with a noticeable delay, then we do not see space but different parts of space-time. In this way, the interpretation what we see is not a result of computations, but is an outcome of our way of thinking.
 
-Jeżeli oglądamy obszary na tyle oddalone, że światło od nich do nas dochodzi z zauważalnym opóźnieniem,
-wtedy nie oglądamy przestrzeni, tylko różne części czasoprzestrzeni.
-Interpretacja tego, co widzimy nie jest wynikiem obliczeń, tylko naszych przemyśleń...
-
-## [Literatura](literatura) 
+## [Literature](literatura) 
