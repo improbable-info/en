@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## VI. Co rozumiemy pod pojęciem czasu?
 
 Pojęcie czasu wydaje nam się intuicyjne i znajome. Problem pojawia się wtedy,
