@@ -2,119 +2,59 @@
 mathjax: true
 ---
 
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## III. Mathematics and the brain
 
-## III. Matematika i mózg
+Frequently, the same problem can be solved either by employment of mathematical equations, or geometry. For example, the gravity can be assumed as a force and it can be defined by using a mathematical equation, or it can be explained geometrically with the curvature of space-time.
 
-Często ten sam problem można rozwiązywać za pomocą równań matematycznych,
-albo geometrycznie. Grawitację można na przykład uznać za siłę i opisać równaniem,
-albo tłumaczyć geometrycznie, za pomocą zakrzywienia czasoprzestrzeni.
+*Probably, the above problem is not only concerned with employment of another tool, but also with the different hemisphere of the human brain. For example, the left hemisphere is responsible for equations and the right one deals with geometrical imagination. Therefore, for full understanding it is important not only to compute the result, but also to be able to imagine it.*
 
-*Prawdopodobnie nie chodzi tylko o użycie innego narzędzia, ale i innej półkuli mózgu.
-Równaniami zajmuje się lewa półkula a prawa wyobraźnią geometryczną.
-Dlatego też, dla pełnego zrozumienia warto nie tylko potrafić coś obliczyć,
-ale również umieć to sobie wyobrazić.*
+We can understand numbers as abstract symbols or we can imagine them as points on a straight line so-called   numerical axis. The point corresponding to number x  is located at a distance x from the point marked as zero (in one direction positive, in other direction negative). Provided that to one point on the straight line exactly one number is attributed, we will receive so-called real numbers.
 
-Liczby możemy rozumieć, jako abstrakcyjne symbole, albo możemy je sobie wyobrażać,
-jako punkty na prostej, tak zwanej osi liczbowej.
-Punkt odpowiadający liczbie x znajduje się w odległości x od punktu oznaczonego,
-jako zero (w jedną stronę dodatnie, w drugą stronę ujemne).
-Jeżeli każdemu punktowi na prostej przyporządkujemy dokładnie jedną liczbę,
-to otrzymujemy tak zwane liczby rzeczywiste.
-
-Płaszczyznę możemy połączyć z liczbami na przykład w taki sposób,
-że każdy punkt płaszczyzny utożsamiamy z parą liczb rzeczywistych.
-Otrzymujemy w ten sposób współrzędne każdego punktu płaszczyzny.
+The plane may be combined with numbers, for example, in a such manner that every point of the plane is identified with a pair of real numbers. We will receive then coordinates of every point of the plane.
 
 
-(Łatwo można w ten sposób rozszerzyć geometrię na dowolną ilość wymiarów n, tylko każdy punkt
-zamiast parą liczb, będzie zdefiniowany ciągiem n liczb rzeczywistych x=(x1,x2,...,xn).
-Jeśli dla każdej pary elementów x i y wprowadzimy pojęcie wzajemnej ich odległości
-zdefiniowanej wzorem
+(By applying the above it is easy to extend the geometry by a given number of dimensions n, provided that every point instead of a pair of numbers is defined by sequence n of real numbers x=(x1,x2,...,xn). Provided that for every pair of elements x and y we introduce the concept of its mutual distance defined by the formula
 
 $$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
-to otrzymamy przestrzeń euklidesową.)
+we will obtain the Euclidean space.)
 
-Różne kształty geometryczne, na przykład prosta albo okrąg, są w takim ujęciu zbiorem par liczb rzeczywistych
-spełniających określone równanie. Problemy geometryczne można w ten sposób przekształcić na rozwiązywanie równań,
-co z praktycznego punktu widzenia bywa wygodniejsze.
+Various geometrical shapes, for example, a straight line or circle are in such context a collection of the pairs of real numbers satisfying the corresponding equation. The geometrical problems can be in such manner converted into the equation solving, which from the practical point of view appears to be more convenient.
 
-Pozornie wydaje się, że jest obojętne, czy problem rozwiązujemy geometrycznie czy analitycznie,
-bo wynik powinien być taki sam. Nie chodzi jednak tylko o wynik, ale również o zrozumienie całego problemu.
-Jeżeli tylko rozwiązujemy równania i nie mamy przez cały czas świadomości tego, co właściwie obliczamy,
-mogą później powstać problemy przy interpretacji wyników i dopasowywaniu ich do rzeczywistości.
-Jeżeli problem formułujemy geometrycznie, można czasami łatwiej zauważyć różne aspekty,
-których w równaniach nie widzimy.
+Apparently, it seems that it does not matter whether the problem is solved in a geometrical or analytical manner because the final result should be the same. However, the concern is not only regarding the result itself, but also understanding of the problem is important. If we only give the solution to an equation and we are not aware of what are we exactly estimating, then when interpreting results and adjusting them to the real conditions, further problems may arise. When the problem is formulated geometrically, it is often easier to perceive different aspects which in an equation we normally do not see.
 
-Pokażemy to na przykładzie grawitacji. Zgodnie z  teorią grawitacji Newtona mamy równanie
+Now, we will illustrate it by the example of gravity. According to the Newton’s theory of gravity we have the following equation 
 
 $$ F = G * \frac{M * m}{r^2}  $$
 
-gdzie F jest siłą przyciągającą, G stałą grawitacji, M masą jednego obiektu,  m masą drugiego obiektu,
-r odległością pomiędzy  obiektami. Równanie sprawdza się w codziennej praktyce, natomiast wygląda na to,
-że dla bardzo dużych odległości może wymagać modyfikacji. Tylko nie wiemy jakich, ani dlaczego.
-Możemy postępować podobnie jak Kepler przy badaniu ruchu planet.
-Zebrać ogromną ilość informacji uzyskanych na podstawie obserwacji i próbować modyfikować równanie w taki sposób,
-aby otrzymać zgodność z otrzymanymi danymi. Nawet, jeżeli nam się uda, to nie będziemy wiedzieli, dlaczego tak jest.
+where F is an attracting force, G - gravitational constant, M - mass of one object,  m - mass of other object, r - distance between the objects. This equation is verified in everyday life, however, it seems that for large distances it may require modifications. We do not only know what modifications and for what reason. We may act similarly to Kepler when examining the planetary motion. We might  collect a great number of data obtained from observations and then we will try to modify the equation in such a manner as to be compliant with the obtained data. Even when we succeed, we might not have the knowledge what would be the reason for it.
 
-Jeżeli spróbujemy na grawitację spojrzeć geometrycznie, jako na zakrzywienie czasoprzestrzeni,
-trudniej będzie uzyskać dokładne obliczenia, natomiast dużo łatwiej możemy dostrzec, że problem jest związany z nieskończonością.
+When we want to look at the gravitation from the geometrical point of view as the curvature of space-time, it will be more difficult to obtain precise data, but much easier to observe that the problem is related to infinity.
 
-Nie trzeba sobie wyobrażać nieskończonej czterowymiarowej czasoprzestrzeni, wystarczy ograniczyć się do dwóch wymiarów.
-Dwuwymiarową czasoprzestrzeń możemy sobie wyobrazić, jako naprężoną płaszczyznę,
-w której pod ciężarem obiektu tworzy się dołek (rys. 6).
+As there is no need to imagine an endless four-dimensional space-time, it is sufficient to limit it to two dimensions. We can imagine a two-dimensional space-time as a tensed plane in which under the weight of an object a hole is created (Fig. 6).
 
 ![rysunek6](../assets/img/rysunek6.png)
 
-Rysunek 6
+Figure 6
 
-Jeżeli mamy nieskończoną płaszczyznę, to deformacja może rozciągać się w nieskończoność,
-zgodnie z opisem powyżej podanego równania. Można sobie natomiast łatwo wyobrazić czasoprzestrzeń jako elastyczną kulę.
-W tym przypadku nie mamy żadnej nieskończoności i deformacja będzie ograniczona tylko do jednej półkuli (rys 7).  
+When an endless plane is considered, then the deformation can be expanded to the infinity according to the above presented description of the given equation. One can easily imagine space-time as an elastic sphere. In such case any infinity and deformation will be reduced only to one hemisphere (Fig. 7).  
 
 ![rysunek7](../assets/img/rysunek7.png)
 
-Rysunek 7
+Figure 7
 
-Poza tym, że od razu widzimy, że w tym wypadku trzeba równania modyfikować, mamy od razu wskazówkę w jaki sposób. Jednocześnie możemy sobie uświadomić, że w równaniach Newtona (i nie tylko Newtona, ale w prawie wszystkich)
-jest "ukryte" założenie  istnienia nieskończoności. 
+Moreover, we immediately see that in this case equations require modifications, and we see straightforward how to do it. Simultaneously, we can realise that in Newton’s equations (and not only in Newton’s equations but in almost all equations) there is a "hidden" assumption of the existence of infinity.  
 
-Problem nieskończoności jest w pewnym sensie kluczowy. Jeżeli Wszechświat jest skończony, musi być zakrzywiony.
+The problem of infinity is to some extent the essential one.  Provided that the Universe is finite, it must be curved. 
 
-Już wcześniej pokazaliśmy, że w drodze obserwacji nie można wykryć żadnej krzywizny przestrzeni.
-Wynika to z faktu, że tak naprawdę widzimy tylko światło, które jest od nas w odległości zero.
-Obraz niezakrzywionej trójwymiarowej przestrzeni powstaje tylko w naszym umyśle.
-Nie mamy możliwości przemieszczania się na duże odległości i prowadzenia jakichś pomiarów odległości
-lub kątów pomiędzy różnymi galaktykami, które na dodatek są przez cały czas w ruchu.
-Z jednego miejsca w przestrzeni nie można zmierzyć jej krzywizny.
+As shown earlier through observations any curvature of space cannot be detected. It results from the fact that we actually see only the light which is in zero distance from us. The picture of a non-curved three-dimensional space is only on our minds. We do not have the possibility of moving for longer distances and conducting measurements of distances or angles between different galaxies, which, in addition, are constantly in motion. Therefore from one place in space such curvature cannot be measured.
 
-Teraz widzimy, że obliczenia też mogą być mylące. Z równań może wychodzić niezakrzywiona przestrzeń dlatego,
-że używamy matematyki, w której oś liczbowa jest nieskończona. Jeżeli na początku zakładamy,
-że pusta przestrzeń jest opisana przez równania, które w jakiś sposób zakładają jej nieskończoność,
-to nic dziwnego, że później otrzymamy wynik, że przestrzeń jest nieskończona.
+Now we see that computations can also be misleading. Equations may prove a non-curved space because we employ mathematics in which the numerical axis is infinite. When at the beginning we assume that  an empty space is described via equations, which somehow assume its infinity, not surprisingly, later we will receive the result indicating space as infinite.
 
-Z drugiej strony, za skończonością przestrzeni przemawia kilka logicznych argumentów.
-Po pierwsze - żadnej nieskończoności w rzeczywistym świecie nie można potwierdzić - ani obserwacyjnie,
-ani eksperymentalnie. Po drugie - z przestrzeni skończonej nie może stać się w skończonym czasie
-przestrzeń nieskończona. Gdyby przestrzeń miała być nieskończona, to musiałaby być nieskończona już na początku.
-Wydaje się jednak, że czas i przestrzeń są powiązane w czasoprzestrzeni w taki sposób, że to,
-co jest dla jednego obserwatora czasem, może być dla innego obserwatora przestrzenią i na odwrót.
-W tym wypadku nie wydaje się, że Wszechświat mógłby istnieć tylko przez skończony czas
-a przestrzeń byłaby nieskończona.
-Skończony Wszechświat daje także możliwość wytłumaczenia zjawisk,
-których współczesna kosmologia nie potrafi wytłumaczyć. Na przykład istnienie ogromnych czarnych dziur
-w bardzo młodym Wszechświecie. Jeżeli założymy, że Wszechświat ma kształt kuli,
-to odległości obserwowanych obiektów mogą być inne, niż myślimy.
-W niezakrzywionej przestrzeni intensywność światła maleje z kwadratem odległości.
-Natomiast na powierzchni kuli fala światła najpierw słabnie, ale po osiągnięciu drugiej półkuli ponownie się wzmacnia.
-Może też przebiegać po powierzchni kuli kilkakrotnie tam i z powrotem.
-Odległości i wiek widzialnych obiektów mogą być w tym przypadku całkowicie inne niż kiedy zakładamy,
-że przestrzeń jest niezakrzywiona.
+On the other hand, the fact that the space is finite, enforces a few logical arguments. Firstly, any infinity in the real world cannot be proven – neither through observations nor experiments. Secondly, a finite space cannot be converted into an infinite space in finite time. Provided space was to be infinite it had to be endless already at the beginning. However, it seems that time and space are co-related in space-time in the manner that one observer considers it as time, whilst the other considers it as space and vice versa. In such case the Universe does not seem to exist only for the finite time, and space would be infinite.
 
-Na tym etapie nie mamy żadnego dowodu na to, że przestrzeń jest skończona.
-Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możliwość, że przestrzeń jest skończona,
-to z tego wynika, że nie może być przestrzenią euklidesową.
-W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
+The finite Universe gives such opportunity to investigate the phenomena, the modern cosmology cannot explain. For example, the existence of black holes in the very young Universe. When we assume that the Universe has got a shape of a sphere, then the distances between the observed objects, or distances between the objects and the observer might be different than those we think. In a non-curved space the intensity of the light decreases with the square of the distance. However, on the surface of a sphere a wave of light firstly becomes weaker but after reaching the second hemisphere it becomes stronger again. It may also spreads on the surface of a sphere few times forwards and backwards. The distance and age of the visible objects may be in this case completely different if we assume that space is non-curved.
 
-## [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
+At this stage we do not have any evidence that space is finite. However, what has been proven is that the above matter should be examined more thoroughly. When we assume the possibility that space is finite, in this case this space cannot be the Euclidean one.  In view of the above, non-Euclidean geometries should be also presented.
+
+## [IV. Non-Euclidean geometries and determination of distances](rozdzial4)
