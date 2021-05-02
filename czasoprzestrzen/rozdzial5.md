@@ -1,59 +1,17 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## V. Few words about complex numbers
 
-## V. Kilka zdań o liczbach zespolonych
+The one who does not posses the knowledge of complex numbers may be surprised that something like that actually does exist. How the square of a number can be negative when the square of any real number must be non-negative. Well, this is the core of the issue that real numbers do not have the roots in negative numbers,  although they are sometimes needed.
 
-Kto nie zna liczb zespolonych, może być zdziwiony, że coś takiego w ogóle istnieje.
-Jak może być kwadrat jakieś liczby ujemny, skoro przecież kwadrat dowolnej liczby rzeczywistej
-musi być nieujemny. Otóż, o to właśnie chodzi, że w ramach liczb rzeczywistych
-nie ma pierwiastków liczb ujemnych a czasami są potrzebne.
+What actually do people need numbers for? A long time ago people managed to live without them. It can be assumed that, at first, small natural numbers were needed in order to count members of a group or animals. With time people learned how to count. By adding two natural numbers we will receive a natural number again, only the higher one. The upper limit of the used numbers raised when the number of members in a group or number of used items or livestock increased. After that, people learned how to subtract numbers. For a long time people subtracted lower numbers from the higher ones. It was considered impossible that quantity can be negative. Only when loans appeared people realised that negative numbers might be useful.
 
-Dlaczego właściwie ludzie potrzebują liczb? Kiedyś dawno obchodzili się bez nich.
-Można zakładać, że najpierw potrzebne były małe liczby naturalne, aby policzyć członków grupy
-czy sztuki zwierząt. Z czasem nauczono się dodawać.
-Przez dodanie dwóch liczb naturalnych otrzymamy ponownie liczbę naturalną, tylko trochę większą.
-Górna granica używanych liczb podnosiła się wraz ze zwiększeniem ilości członków w grupie
-lub ilości używanych przedmiotów albo hodowanych zwierząt. Później nauczono się odejmować.
-Przez długi czas odejmowano tylko mniejsze liczby od większych.
-Wydawało się niemożliwe, żeby ilość mogła być ujemna. Dopiero, kiedy pojawiły się pożyczki,
-zrozumiano, jak pożyteczne mogą być liczby ujemne.
+*The above indicates that interpretation of numbers and calculations is not so strict and evident as we often think. It had taken hundreds of years before people learned how to freely use the negative numbers. When it comes to complex numbers it may take even longer... *
 
-*Wynika z tego, że interpretacja liczb i obliczeń wcale nie jest tak jednoznaczna i ewidentna,
-jak czasem myślimy. Zajęło to setki lat, zanim ludzie nauczyli się powszechnie używać liczb ujemnych.
-Z liczbami zespolonymi może to potrwać jeszcze dłużej...*
+Natural numbers together with their negative equivalents and the zero value constitute integer numbers. If only integer numbers are selected, someone can freely add numbers and subtract numbers and the result will be always an integer number. Integer numbers can be also multiplied. Multiplication of integer numbers appeared to be useful, for example, at estimating the area of rectangles. Only from time to time dividing something into parts was found necessary and for that the integer numbers were not enough. In such cases, fractions appeared to be necessary. This lead us to the rational numbers, that is, the numbers that can be written in the form of a quotient of two integer numbers (where the second one is other than zero).
 
-Liczby naturalne wraz z ich ujemnymi odpowiednikami i zerem dają liczby całkowite.
-W ramach liczb całkowitych można dowolnie dodawać i odejmować i wynik zawsze będzie liczbą całkowitą.
-W ramach liczb całkowitych można także mnożyć.
-Mnożenie okazało się bardzo przydatne na przykład przy obliczaniu pola prostokątów.
-Tylko czasami było potrzebne dzielenie czegoś na części i tu już liczby całkowite nie wystarczyły.
-Potrzebne okazały się ułamki. W ten sposób dotarliśmy do liczb wymiernych, to znaczy liczb,
-które można zapisać w postaci ilorazu dwóch liczb całkowitych (gdzie druga jest różna od zera).
+A surprise was the postulate that irrational numbers do exist. It turned out that they are necessary, for example,  for estimating the length of a diagonal of a square and generally, when computing roots of numbers. Rational numbers together with irrational ones constitute real numbers, which in geometrical interpretation create a straight line so-called a numerical axis. When at the straight line we indicate one point and mark it as zero, and another one is marked as one, then every real number can be unequivocally attributed to one point at the straight line and vice versa, every point at the straight line refers to one real number. There is only one problem. When comes to real numbers not all numbers have roots. Because the squared real number cannot give a negative result, accordingly, the square root of a negative number cannot exist. When for some reason we need to determine it, then we have to go beyond real numbers. Therefore, complex numbers were invented.
 
-Niespodzianką było stwierdzenie, że istnieją liczby niewymierne.
-Okazały się potrzebne na przykład dla ustalenia długości przekątnej kwadratu.
-Ogólniej przy obliczaniu pierwiastków.
-Liczby wymierne razem z niewymiernymi tworzą liczby rzeczywiste,
-które w interpretacji geometrycznej tworzą prostą, tak zwaną oś liczbową.
-Jeżeli na prostej wyznaczymy jeden punkt i oznaczymy go jako zero a jeden punkt jako jedynkę,
-to każdej liczbie rzeczywistej można jednoznacznie przyporządkować jeden punkt na prostej i odwrotnie,
-każdemu punktowi na prostej odpowiada jedna liczba rzeczywista.
-Pozostał tylko jeden problem. W ramach liczb rzeczywistych nie ma pierwiastków ze wszystkich liczb.
-Ze względu na to, że rzeczywista liczba podniesiona do kwadratu nie może dać wyniku ujemnego,
-to w ramach liczb rzeczywistych nie może istnieć pierwiastek drugiego stopnia liczby ujemnej.
-Jeżeli w jakimś celu potrzebujemy go obliczyć, to musimy wyjść poza liczby rzeczywiste.
-Dlatego wymyślono liczby zespolone.
+Complex numbers originate from real numbers, that is, to a real number that is the real part of a complex number we add an imaginary part. The imaginary part can be understood as an additional dimension in the direction of the imaginary unit defined by letter i. When we imagine the real numbers as a horizontal axis and the imaginary numbers as a vertical axis then the complex numbers will constitute a complex plane where the complex number  a+bi will be defined by coordinates (a,b).
 
-Liczby zespolone otrzymamy z liczb rzeczywistych w ten sposób, że do liczby rzeczywistej,
-która tworzy część rzeczywistą liczby zespolonej, dodajemy część urojoną.
-Część urojoną można rozumieć, jako dodatkowy wymiar w kierunku jednostki urojonej
-oznaczonej literą i. Jeżeli liczby rzeczywiste wyobrażamy sobie jako oś poziomą
-i liczby urojone jako oś pionową, to liczby zespolone będą tworzyły płaszczyznę zespoloną,
-gdzie liczba zespolona a+bi będzie określona za pomocą współrzędnych (a,b).
+We see that all numbers mentioned so far in the geometrical interpretation are related to the Euclidean geometry. In other words, all computations conducted with the use of such numbers are based on a hidden assumption that space is Euclidean. It appears that for the computations related to cosmology, a mathematical model corresponding to the non-Euclidean geometries would be helpful...
 
-Widzimy, że wszystkie do tej pory pokazane liczby w interpretacji geometrycznej są powiązane
-z geometrią euklidesową. To oznacza, że i wszystkie obliczenia za pomocą tychże liczb
-zawierają w sobie ukryte założenie, że przestrzeń jest euklidesowa.
-Wydaje się, że do obliczeń dotyczących kosmologii przydałby się aparat matematyczny
-odpowiadający geometriom nieeuklidesowym...
-
-## [VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
+## [VI. How do we understand the time?](rozdzial6)
