@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## XIII. Zakończenie
 
 Rzeczywistość zawsze jest bogatsza niż jakikolwiek model.
