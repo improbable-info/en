@@ -2,73 +2,32 @@
 mathjax: true
 ---
 
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## IX. Initial remarks on space-time
 
-## IX. Pierwsze uwagi o czasoprzestrzeni
+The concept of space-time has already been adopted in classical mechanics as a Cartesian product of the Euclidean space and time. Time constituted here an additional dimension, but measured in other units and independent of space.
 
-Pojęcie czasoprzestrzeni istniało już w mechanice klasycznej,
-gdzie oznaczało iloczyn kartezjański przestrzeni euklidesowej i czasu.
-Czas tu był dodatkowym wymiarem, ale mierzonym w innych jednostkach i niezależnym od przestrzeni.
+It was Hermann Minkowski who realised the fact that time and space can constitute one object in which time and space somehow can be mixed and exchanged. He discovered that via a four-dimensional space, the specific theory of relativity can be presented in a simple way.
 
-To, że czas i przestrzeń mogą tworzyć jeden obiekt, w którym czas i przestrzeń w jakiś sposób mogą się mieszać
-i zamieniać, uświadomił sobie już matematyk Hermann Minkowski. Wymyślił też,
-jak za pomocą czterowymiarowej czasoprzestrzeni w prostszy sposób przedstawić szczególną teorię względności.
-
-Jednym z problemów, który było trzeba rozwiązać, było ustalenie, w jaki sposób należy mierzyć odległości
-w czasoprzestrzeni. W przestrzeni odległość mierzymy w metrach a czas mierzymy w sekundach.
-Aby je połączyć, konieczne jest przekształcenie odległości w czas albo czasu w odległość.
-Dobrym rozwiązaniem okazało się pomnożenie czasu **t** przez szybkość światła **c**,
-po czym zamiast czasu otrzymamy odległość. Jeżeli do trójwymiarowej przestrzeni dodamy następny wymiar czasowy
-pomnożony przez prędkość światła, otrzymamy czterowymiarową przestrzeń,
-w której wszystkie wymiary są w tych samych jednostkach.
-Pojawił się jednak następny problem. Czas różni się trochę od przestrzeni.
-Jeżeli w przestrzeni można dowolnie poruszać się tam i z powrotem,
-to powrót w czasie prowadzi do różnych sprzeczności. Minkowski rozwiązał tę kwestię w ten sposób,
-że czasowy wymiar pomnożył, oprócz szybkości światła jeszcze przez jednostkę urojoną **i**.
-Wzór na odległość w czasoprzestrzeni otrzymał wówczas następujący kształt
+One of the problems that needed to be resolved was to determine how distances should be measured in space-time.  In space distances can be measured in meters and time in seconds. In order to combine them it is necessary to convert the distances into time or time into distances. A good solution appears to be the multiplication of time **t** by speed of light **c**,
+and instead of time we will abtain the distance. When to the three-dimensional space we add another time dimension multiplied by the speed of light we will receive a four-dimensional space in which all dimensions are in the same units. However, another problem occurred. Time slightly differs from space. When in space we can freely move backwards and forwards, going back in time leads to various contradictions. Minkowski solved the issue in the following manner, apart from the speed of light he multiplied the time dimension by the imaginary unit **i**.
+Then, the formula of distance in space-time received the following shape; 
  
 $$ d = \sqrt {x^2+y^2+z^2+i^2*c^2*t^2}  $$,
 
-co ze względu na to, że  $$ i^2 = -1 $$  
+due to the fact that  $$ i^2 = -1 $$  
 
-daje
+it gives
 
 $$ d = \sqrt {x^2+y^2+z^2-c^2*t^2}  $$,
 
-Jest to tak zwany interwał czasoprzestrzenny używany do ustalania odległości w czasoprzestrzeni.
-Otrzymany w ten sposób matematyczny model czasoprzestrzeni nie zawiera już w sobie
-sprzeczności przyczynowości i umożliwia formalny zapis równań szczególnej teorii względności Einsteina.
+It is so-called the space-time interval that is employed to determine the distance in space-time. Thus, the mathematical model in space-time is not contraditory when it comes to causation and it enables a formal record of the specific theory of relativity of Einstein.
 
-Kiedy wszystko sformalizowało się i sprowadziło się do równań,
-można było uzyskane wzory jeszcze dalej przekształcać. Jednostka urojona już się w nich nie pojawia,
-tylko przy wymiarze czasowym jest inny znak niż przy wymiarze przestrzennym.
-Jak uzasadnia się, dlaczego właśnie w ten sposób?
-Po prostu identyczny znak prowadzi do sprzeczności a znak odwrotny nie i nikt nie widział
-innych możliwości. Matematyczne modele możemy tworzyć praktycznie dowolnie,
-tylko trzeba ostrożnie interpretować wyniki.
+When it was formalised and formulated in equations, the obtained fromulas could be modified further. The imagnary unit is not applied any more, only the dimension of time takes a different sign than in the dimension of space.  How it can be justified? Why that way not the other? Simply the identical sign leads to the contradition and the reverse sign allows to avoid it and no other possibilities were employed. Mathematical models can be freely created, however, their results should be interpreted more carefully.
 
-To, że z interwałem czasoprzestrzennym jest coś nie tak jak powinno, uświadomiłem sobie w momencie,
-kiedy zrozumiałem, że to co obserwujemy, nie jest przestrzenią trójwymiarową,
-tylko jakimś wycinkiem czasoprzestrzeni.
-Każdy obserwowany obiekt jest od nas oddalony nie tylko w przestrzeni, ale również w czasie.
-Jeżeli obserwujemy jakąś erupcje na Słońcu, to jaka jest odległość pomiędzy erupcją a naszą obserwacją?
-W przestrzeni jest to około 150 milionów kilometrów, w czasie około ośmiu minut.
-Jaka jest więc odległość tych dwóch zdarzeń w czasoprzestrzeni?
-Interwał Czasoprzestrzenny oblicza się w ten sposób, że od odległości w przestrzeni
-odejmuje się czas pomnożony przez szybkość światła. W naszym wypadku wychodzi zero.
+The fact that the space-time interval is something that it should not be adopted as it is, I realised when I understood that what we observe is not a three-dimensional space, but it is only an excerpt of space-time. Every observed object is at a distance from us not only in space but also in time. When we observe an eruption in the Sun what is the distance between the eruption and our observation? In space there are about 150 million kilometers, in time about 8 minutes. What is the distance then between the two events in space-time? The Space-time Interval is determined as follows;  from the distance in space, the time multiplied by the speed of light is subtracted. In our case it equals zero.
 
-Jeżeli się nad tym zastanowimy, to zrozumiemy, że interwal czasoprzestrzenny w obecnie używanej formie
-nie jest odległością dwóch zdarzeń w czasoprzestrzeni, tylko odległością sygnału świetlnego
-dotyczącego jednego zdarzenia od drugiego zdarzenia.
+When we think about it we will understand that the space-time interval in a present form is not the distance between two events in space-time, it will be only the distance of the light signal between one event and the other.
 
-Dla wszystkiego co w danej chwili widzimy, czasoprzestrzenny interwał jest równy zeru.
-Widzimy to jeszcze wyraźniej, kiedy dla odległości w przestrzeni użyjemy współrzędnych sferycznych.
-Odległość w przestrzeni ustalamy na podstawie tego, ile czasu potrzebuje światło na dotarcie
-od obiektu do nas, czyli prędkość światła pomnożona przez czas.
-Dla odległości w czasoprzestrzeni następnie otrzymujemy prędkość światła pomnożoną przez czas
-minus prędkość światła pomnożoną przez czas, czyli zero.
-W jaki sposób w takim razie należy ustalać odległości w czasoprzestrzeni?
-Jeżeli chcemy znaleźć odpowiedź na to pytanie, trzeba najpierw wrócić do początkowych uwag o czasie
-i o czasoprzestrzeni a następnie próbować szukać rozwiązania jeszcze raz.
+Everything we now see is the space-time interval which equals zero. We see it more clearly when for the distance in space the spherical coordinates are used. The distance in space is established by specifying how much time the light needs to reach us from an object, that is, the speed of light is multiplied by time. Subsequently, for the distance in space-time we receive the speed of light multiplied by time less the speed of light multiplied by time, that is, zero. How then we can determine the distance in space-time? If we want to find an answer to that question, first of all, we have to refer to the initial remarks on time and space-time and then try to find a solution once again.
 
-## [X. Zasada względności w czasoprzestrzeni ](rozdzial10) 
+## [X. The principle of relativity in space-time](rozdzial10) 
