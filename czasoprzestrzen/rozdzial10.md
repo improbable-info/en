@@ -1,3 +1,5 @@
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 ## X. Zasada względności w czasoprzestrzeni
 
 Do analizy warto zawsze wybrać na początku najprostszy model.
