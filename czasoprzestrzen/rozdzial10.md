@@ -20,7 +20,7 @@ To our model we will add one more observer **P**, who will drift away from the o
 
 Figure 10
 
-The principle of relativity, however, says that the motion is relative. When we have got two observers who drift away from each other it is difficult to determine which one is at rest and which one is in motion. In other words, the observer P may state that someone does not move in space and the observer O drifts away from him/her. For him/her the time flows in his/her direction in space-time, that is, along the line **u** and space passes in the direction of the line **r** (Fig. 11).
+The principle of relativity, however, says that the motion is relative. When we have got two observers who drift away from each other it is difficult to determine which one is at rest and which one is in motion. In other words, the observer **P** may state that someone does not move in space and the observer **O** drifts away from him/her. For him/her the time flows in his/her direction in space-time, that is, along the line **u** and space passes in the direction of the line **r** (Fig. 11).
 
 ![rysunek11](../assets/img/rysunek11.png)
 
