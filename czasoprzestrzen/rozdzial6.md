@@ -1,45 +1,17 @@
 (work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
 
-## VI. Co rozumiemy pod pojęciem czasu?
+## VI. How do we understand the time?
 
-Pojęcie czasu wydaje nam się intuicyjne i znajome. Problem pojawia się wtedy,
-kiedy chcemy podać dokładną definicję. Jesteśmy w podobnej sytuacji jak święty Augustyn,
-który na pytanie, czym jest czas, odpowiedział: "Gdy nikt mnie nie pyta, wiem,
-kiedy jednak chcę to wyjaśnić, nie wiem". Pojęcie czasu jest na tyle nieprecyzyjne i tak trudno go zdefiniować,
-że na przykład brytyjski fizyk Julian Barbour uważa, że trzeba go całkowicie wyeliminować z nauki.
-Bo co to za nauka, która opiera się na tak nieprecyzyjnym pojęciu jak czas,
-którego nikt nie widział i nikt dokładnie nie wie, czym jest.
-Barbour próbuje całą fizykę przebudować tak, aby czas w niej nie występował.
+We adopt the concept of time intuitively and consciously. A problem arises when we want to formulate a precise definition of it. We are in a similar situation to  St. Augustine, when asked about what time is, he answered:, "If no one asks of me, I know what it is. If I wish to explain it to anybody who asks, I do not know". The concept of time is so unclear and it is difficult to define. For example, Julian Barbour, a British physicist believes that it should be utterly eliminated from the science. Science is not science when it is based on an unclear concept of time, time which has not been seen by anybody and nobody knows precisely what time is. Barbour makes attempts to restructure the entire physics in a such manner to exclude the existence of time.
 
-Prawdą jest, że czasu nie możemy bezpośrednio obserwować.
-Możemy jednak zauważać zmiany w otoczeniu i niektóre procesy wykorzystać jako zegar.
-W praktyce można używać różnych procesów okresowych, takich, jak obroty Ziemi czy ruch wahadła.
-Do rozważań teoretycznych dobrze nadaje się zegar świetlny, który składa się z dwóch luster,
-między którymi odbija się foton. Problem polega tylko na tym, że proces cykliczny wcale nie mierzy czasu w sensie jego upływu.
-W ogóle nie zapewnia, że czas płynie do przodu. Wręcz przeciwnie, procesy cykliczne mogą sugerować,
-że czas też może przebiegać w cyklach i powracać do stanu wcześniejszego.
+The truth is that time cannot be observed directly. However, we can observe changes in the surrounding environment and use some processes as a time meter. In practice, we can use various periodic processes, such as, rotation of the Earth or movement of a pendulum. Theoretical analysis can be based on the employment of a light clock, which consists of two mirrors and a phantom reflected between them. The problem is that the cyclic process does not measure time, that is, the flow of time. It does not ensure at all that time flows forward. On the contrary, the cyclic processes may suggest that time can flow in cycles and can return to the previous state.
 
-Istnieją również procesy liniowe, które można wykorzystać do mierzenia czasu.
-Na przykład palącą się świecę czy rozpad izotopów. Te lepiej odpowiadają naszemu subiektywnemu wyobrażeniu o czasie,
-jako o czymś płynącym w jednym kierunku od przeszłości przez teraźniejszość do przyszłości.
-Czy takie rozumienie czasu jest tylko naszą iluzją czy kierunek czasu to coś obiektywnego?
-My obserwujemy, jak się starzejemy i wydaje nam się, że nie może być inaczej.
-Tylko, że w mikroświecie jest inaczej! Niektóre cząstki elementarnie się nie starzeją.
-Wszystko wokół nich jest w ruchu, tylko sam ruch nie daje możliwości ustalenia kierunku czasu.
-My obserwujemy nie tylko ruch obiektów, który może odbywać się tam i z powrotem,
-ale również zmiany powiązane ze wzrostem entropii, które są nieodwracalne.
-Czy w mikroświecie jest także coś, co pozwala ustalić kierunek czasu? Okazuje się, że tak.
-Istnieją cząstki elementarne (tzw. kaony), dla których rozpad i powstawanie nie jest symetryczne w czasie,
-co sugeruje, że strzałka czasu pojawia się już na poziomie cząstek elementarnych.
+There are also linear processes which can be used to measure time. For example, a lit candle or isotope decay. These ones better refer to our subjective perception of time as something that flows in one direction from the past through the present time to the future. Is such understanding of time only our illusion, or the direction of time is something objective? We see how we get old and we imagine that it cannot be different. But in the micro world this is all the other way round! Some particles do not get old in the elementary way. Everything around us is in motion, only the motion itself does not give the possibility of estimating the direction of time. What we observe is not only the movement of objects which can be forwards and backwards, but also changes related to the increase in entropy, which are irreversible. Is there in the micro world anything that helps to determine the direction of time? It appears that yes. There are elementary particles (so-called kaons), for which the decay and creation is not symmetrical in time, which suggests that the time arrow occurs already at the level of elementary particles.
 
-Jeżeli upływ czasu jest czymś obiektywnym, to w jaki sposób jest on uwzględniony w naszych modelach rzeczywistości?
+When a time flow is something objective, how then it is included in our models of reality? 
 
-W mechanice klasycznej czas nie płynie.  Jest to po prostu parametr liczbowy, który wkładamy w równania.
-Nie ma żadnego powodu, dla którego tak rozumiany czas miałby płynąć. W równaniach nawet nie rozróżnia się kierunku czasu.
+In classical mechanics time does not flow.  It is simply a numerical parameter which is included in an equation. There is no reason which would indicate that time flows. In equations the direction of time is not even distinguished.
 
-Jeżeli kierunek czasu i podział na przeszłość, teraźniejszość i przyszłość jest obiektywną właściwością naszego Wszechświata,
-to potrzebujemy modelu, który to w jakiś sposób uwzględnia.
-Jedną z możliwości jest wykorzystanie idei brytyjskiego fizyka Stephena Wolframa,
-który proponuje modelowanie Wszechświata, jako automatu komórkowego.
+When the direction of time and the division into past, present and future times is a relative property of our Universe then we need a model which includes the same somehow. One of the possibilities is to use an idea of  Stephen Wolfram, a British physicist, who postulates  modeling of the Universe as a cellular automation.
 
-## [VII. Wszechświat jako automat komórkowy](rozdzial7)
+## [VII. The Universe as a cellular automaton](rozdzial7)
