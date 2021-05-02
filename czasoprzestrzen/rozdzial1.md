@@ -1,129 +1,38 @@
-## I. Jak powstaje model Wszechświata
+## I. How the model of the Universe is created
 
-*Czytałem kiedyś o lekarzu w starożytnych Chinach, który badał żonę cesarza ukrytą za zasłoną.
-Przykładała do różnych części ciała jeden koniec nici i on trzymając w ręku jej drugi koniec
-obserwował tylko drgania. Na podstawie obserwacji wibrującej nici stawiał diagnozę.
-Wydawało mi się wtedy, że ustalenie prawidłowej diagnozy w takich warunkach jest prawie niemożliwe.
-Przy badaniu kosmosu jesteśmy jednak w podobnej sytuacji, jak starożytny chiński lekarz.
-Nie możemy podejść bliżej, aby coś zbadać. Jedyne, co możemy zrobić,
-to obserwować różne fale docierające do nas i wytężać nasz umysł.*
+Once I read about a doctor in ancient China who examined the Caesar’s wife behind a curtain. The wife put one end of a thread to different parts of her body and the doctor by holding in his hand the other end of the thread observed only vibrations. He gave his diagnosis under the observations of the vibrating thread. I thought then that giving good diagnosis in such conditions was almost impossible.
+
+When examining Cosmos we are, however, in a similar situation like the Chinese doctor. We cannot come closer to examine it. The only thing we can do is to observe various waves that reach us and strain our brains. 
 
 
-Zwykle sobie nie uświadamiamy tego, że nasz model Wszechświata powstaje na podstawie bardzo dziwnej mieszaniny obserwacji
-i założeń teoretycznych.   Same obserwacje są niewystarczające. Mogą być nawet mylące.
-Jeżeli pominiemy wszystko, czego nauczyli nas w szkole i spróbujemy stworzyć sobie wyobrażenie o Wszechświecie
-tylko na podstawie tego, co bezpośrednio obserwujemy, to co otrzymamy?
-Ziemia wydaje nam się nieruchoma i mniej więcej płaska, w ciągu dnia Słońce porusza się po niebie ze wschodu na zachód,
-nocą nad nami obraca się sfera niebieska z gwiazdami. Nawet do wyjaśnienia,
-w jaki sposób Słońce rano pojawia się ponownie na wschodzie, trzeba przyjąć jakieś założenia,
-bo nie wynika to bezpośrednio z obserwacji. Musimy wymyśleć jakąś teorię i w oparciu o nią interpretować to, co obserwujemy.
-Jest tu pewne zapętlenie, które może prowadzić do tego, że przez długi czas możemy podążać w niewłaściwym kierunku,
-utwierdzając się jednocześnie w przekonaniu, że mamy rację. Nowe obserwacje można jakoś tłumaczyć
-w ramach naszego dotychczasowego modelu, dodając nowe pojęcia i zależności, albo można też szukać nowego modelu.
+Usually, we do not realise that our model of the Universe is based on a specific mixture of observations and theoretical assumptions. The only observations as such are not enough. They may be even misleading. If we erase everything we learnt at school and we try to create our own perception of the Universe only on the basis of our direct observations, what will we receive? The Earth seems to be static and more or less flat, during the day the Sun travels across the sky from the East to the West, and at night the celestial sphere with stars turns over our heads. Even when we want to explain why the Sun in the morning reappears in the East, some assumptions need to be made, because it is not a direct result of observations. We have to formulate a theory on the basis of which our observations will be interpreted. It is a confusing situation which may move us towards a wrong direction for a longer period of time, making us to believe that we are right. New observations may be explained somehow as part of the current model, by adding new concepts or, by searching for a new model.
 
-Przed rozpoczęciem tworzenia nowego modelu warto przypomnieć sobie,
-jak powstawało i zmieniało się wyobrażenie o Wszechświecie od najdawniejszych czasów.
-W oparciu o jakie obserwacje i argumenty ludzie zmieniali zdanie o świecie i tworzyli kolejne modele.
+Before creating a new model it is worth reminding ourselves how the perception of the Universe appeared and changed throughout years starting from the ancient times. Which observations and arguments influenced people to change their opinions about the world and to create further models.
 
-Dawno temu, na podstawie bezpośrednich obserwacji, ludzie wyobrażali sobie,
-że Ziemia jest nieruchoma a niebo z gwiazdami obraca się wokół niej,
-przy czym wzajemne odległości pomiędzy gwiazdami się nie zmieniały.
-Wydawało się logiczne, że gwiazdy znajdują się na obracającej się sferze.
-Słońce i Księżyc można było umieścić na oddzielnych sferach,
-problem pojawiał się przy próbie wyjaśnienia ruchu planet.
-Próbowano na różne sposoby, w końcu Ptolemeusz zaproponował model,
-w którym planety dodatkowo poruszały się po okręgach zwanych epicyklami.
-Była to dosyć karkołomna konstrukcja i Ptolemeusz chyba sam nie do końca był z tego modelu zadowolony,
-ale model był na tyle zgodny z obserwacjami, że przetrwał ponad tysiąc lat.
+A long time ago on the basis of direct observations people thought that the Earth was static and the sky with stars was moving around, and the mutual distances between the stars did not change. It seemed to be logical that the stars were placed in a rotating sphere. The Sun and Moon could have been placed in separate spheres, a problem occurred when the planetary circulation had to be explained. Various attempts were made, finally Ptolemais offered a model, in which planets additionally move in circles called epicycles. It was rather a complicated structure and Ptolemaist himself probably was not satisfied with such model, however, the model so trustworthy reflected the observations that it survived over a thousand years.
 
-Czy były jakieś inne propozycje? W sytuacji, kiedy wszyscy uważali, że Ziemia jest nieruchoma,
-co było zgodne z doświadczeniem, trudno było wpaść na pomysł, że może być inaczej.
-Pomimo tego Arystarch z Samos już kilkaset lat p.n.e. zaproponował heliocentryczny model układu Słonecznego.
-Pomysł był genialny, tylko nie zgadzał się z obserwacjami. Pozycje planet były inne, niż wynikało z obliczeń.
+Were there any other postulates? When everybody believed that the Earth is static, which was proved by the experience, it was difficult for them to believe it might have been different. Although, a few hundred years BC, Aristarchus of Samos had already offered a heliocentric model of the Solar system. It was a genus idea, but it did not reflect the observations. The positions of the planets were different than the calculations indicted. 
 
-Jak widać, nie zawsze trzeba odrzucać model, który nie zgadza się z obserwacjami.
-Czasem może wystarczyć jego niewielka modyfikacja lub tylko zmiana interpretacji wyników pomiaru.
-Dlaczego wyniki obliczeń nie zgadzały się z obserwacją?
-Ponieważ nikomu wtedy nawet nie przyszło na myśl, że planety mogłyby poruszać się po innych torach
-niż po okręgu i na dodatek ze zmienną prędkością.
-Nie obserwowano także przesunięcia paralaktycznego gwiazd,
-które powinno pojawić się w przypadku obiegu Ziemi wokół Słońca.
-Jeszcze w XVI wieku Tycho Brahe, po przeprowadzeniu dokładnych obserwacji,
-podważał z tego powodu teorię heliocentryczną opublikowaną przez Mikołaja Kopernika.
-Wynikało to z innego błędnego założenia.
-Tycho Brahe nie przypuszczał, że odległości gwiazd mogą być tak duże,
-że przesunięcia paralaktyczne są poza zasięgiem nawet najdokładniejszych instrumentów pomiarowych
-używanych w tamtym czasie. Wynika z tego, że wyniki obserwacji mogą być mylące.
-Jeżeli je interpretujemy niewłaściwie, możemy dojść do błędnych wniosków.
+As you can see you do not have to reject the model which does not reflect observations. Sometimes a minor modification or change in interpreting the results appears to be sufficient. Why the results did not corelate with the observations? Because no one at that time thought that planets could move by taking different paths than the circle, moreover, with variable speed. What was not also detected was the parallactic shift of stars, which was supposed to appear when the Earth travels around the Sun. Still in 16th century Tycho Brahe, after conducting thorough observations, overturned for that reason the heliocentric theory published by Nicolaus Copernicus. It was a result of other erroneous assumption. Tycho Brahe did not assume that the distances to stars might be so big that the parallactic shifts are beyond reach even for the most precise measurement instruments used at that time. It seems that the results of observations might be misleading. When we interpret them incorrectly, we may draw wrong conclusions. 
 
-Model heliocentryczny zaczął być traktowany poważnie dopiero wtedy,
-kiedy Johannes Kepler po analizie ogromnej ilości danych doszedł do wniosku,
-że planety poruszają się po orbitach eliptycznych, ze zmienną prędkością
-i obserwacje zaczęły zgadzać się z obliczeniami.
+The heliocentric model started to be treated seriously only when Johannes Kepler after the analysis of a great amount of data, came to the conclusion that the planets move around in elliptical orbits with variable speed, and the observations commenced to correspond with the computations.
 
-Nie wiedziano, skąd wziął się taki na pozór dziwny ruch planet.
-Wyjaśniła to dopiero teoria grawitacji Isaaca Newtona.
+The origins of seemingly strange movement of planets were not known. It was the only theory of gravity given first by Isaac Newton that gave an explanation to it.
 
-Dopóki ludzie uważali, że sfera niebieska obraca się wokół Ziemi, wydawało się oczywiste,
-że odległość wszystkich gwiazd musi być jednakowa.
-Kiedy jednak okazało się, że ruch gwiazd po niebie jest tylko pozorny,
-natychmiast przestała być koniecznością jednakowa odległość gwiazd od Ziemi.
-Wręcz przeciwnie, różna obserwowana jasność gwiazd sugerowała, że te odległości mogą być różne.
-Tylko, w jaki sposób je ustalić i jakie są rozmiary całego Wszechświata?
-Sama obserwacja nie wystarcza. Ponownie potrzebne są jakieś dodatkowe założenia teoretyczne.
-Newton pokazał, że dla ciał niebieskich obowiązują takie same prawa, jakie obowiązują na Ziemi.
-W przypadku gwiazd pojawił się jednak nowy problem.
-Jeżeli wszystkie ciała się przyciągają, to dlaczego wszystkie gwiazdy nie wpadają na siebie?
+Since people believed that the celestial sphere rotates around the Earth, it seemed obvious that the distances between us and all stars must be identical. When it appeared that motion of the stars in the sky is only apparent, immediately the identical distance between the stars and the Earth ceased to be essential. On the contrary, different brightness of stars that was observed indicated different distances. However, how to determine the distances and how big the entire Universe is? To rely only on the observations is proven to be insufficient. Again, some additional theoretical assumptions are required. Newton proved that the same laws apply to the celestial bodies as to the Earth. However, when it comes to stars, a new problem arose. When all bodies attract each other why all stars do not fall into each other?
 
-Ponownie widzimy, że obserwacje mogą wprowadzać nas w błąd.
-Gwiazdy wydają nam się nieruchome jedynie dlatego, że ich odległości są bardzo duże.
-Wszechświat wcale nie jest statyczny. Usiłowano znaleźć rozwiązanie tego problemu
-i tak powstała koncepcja nieskończonego Wszechświata.
+Again, we see that the observations may lead us to the misleading conclusions. We find stars static only because the distances between them are very long. However, the Universe is not static at all. There were attempts to find a solution to that problem and that is how the concept of the endless Universe was developed. 
 
-Zgodnie z zasadami geometrii Euklidesa, jakie nam wpojono, nieskończona, niezakrzywiona przestrzeń
-wydaje nam się czymś naturalnym. Nieskończoność nie może być jednak potwierdzona żadną obserwacją
-ani żadnym eksperymentem i istnieje właściwie tylko w naszej wyobraźni.
-Oprócz tego okazało się, że nieskończona przestrzeń wcale nie załatwia sprawy stabilności Wszechświata.
-Dla zapewnienia stabilności nieskończonego, statycznego Wszechświata potrzebna byłaby
-modyfikacja teorii grawitacji w stosunku do bardzo odległych obiektów. Jak zobaczymy później,
-modyfikacja teorii grawitacji Newtona jest potrzebna także w przypadku skończonego Wszechświata,
-ponieważ została sformułowana dla nieskończonej, niezakrzywionej przestrzeni.
+According to the principles of Euclidean geometry which we were taught, an endless, non-curved space seems to be something natural. However, infinity can be proved neither by observations nor by experiment and it is in fact only a product of our imagination. Moreover, it appeared that an endless space is not the case when it comes to the stability of the Universe. In order to ensure stability of an infinite, static Universe, the theory of gravity needs to be modified in relation to the very distant objects. As will be seen later, the modification of Newton’s theory of gravity is required in case of the finite Universe, because it was formulated for the infinite, non-curved space.
 
-Przeciw koncepcji nieskończonego Wszechświata podawano też inny argument.
-Nieskończona ilość gwiazd mniej więcej równomiernie rozmieszczona w nieskończonej przestrzeni
-powinna powodować, że niebo będzie jasne również w nocy. W jakiś sposób trzeba było wyjaśnić,
-dlaczego jest ciemne. Jednym z możliwych wyjaśnień było założenie, że gwiazdy nie świecą od zawsze.
-W tym przypadku powstaje jednak pytanie, kiedy i w jaki sposób zaczęły świecić?
+There was another argument which was also  against the concept of the infinite Universe. An infinite number of stars more or less equally deployed in the endless space should result in a bright sky also at night. It should have been explained somehow why it is dark. One of the possible explanations was the assumption that the stars do not generate light from the beginning. In this context there is the question when and how they start to generate light? 
 
-Kiedyś wydawało się, że na ten temat można tylko spekulować.
-Gwiazdy wydawały się tak odległe i tak niedostępne, że były tylko światełkiem na niebie.
-Okazało się jednak, że i z tej niewielkiej ilości światła, które do nas dociera,
-można uzyskać bardzo dużo informacji. Badając spektrum gwiazd można ustalić ich skład chemiczny
-i z porównania różnych stadiów gwiazd wywnioskować, do jakich reakcji w nich dochodzi.
+It seemed before that the topic could be only speculated about. The stars believed to be at such a long distance and so unreachable that they were only perceived as a pale light in the sky. It became clear, however, that such a feeble light we see may be a great source of information. By conducting research on the spectrum of stars, their chemical composition can be determined and by comparing various stadia of stars it can be concluded what processes and chemical reactions occur in them.
 
-Trzeba jednak nieustannie analizować i rozróżniać, co jest bezpośrednią obserwacją a co modelem teoretycznym
-i w jaki sposób na ich podstawie wyciągamy wnioski o rzeczywistym Wszechświecie.
-Jeżeli zaobserwowano przesunięcie ku czerwieni w spektrach oddalonych obiektów i to tym większe,
-im bardziej obiekt jest od nas oddalony, to można zinterpretować to, jako rozszerzanie się Wszechświata.
-Nie jest to natomiast obserwacja rozszerzania się Wszechświata,
-więc można próbować zinterpretować to w inny sposób.
+However, continuous analyses and examinations should be conducted to discriminate the direct observations and the theoretical models and therefore to determine how conclusions can be made regarding the real Universe. When a shift towards redness in the spectra of distant objects was observed and the bigger it is, the more distant is the object, it may be interpreted as an expansion of the Universe. It is not, however, the observation of expanding the Universe, therefore, it may be interpreted in a different way.
 
-Jeżeli przyjmiemy fakt, że Wszechświat rozszerza się, to wydaje się logiczne,
-że wcześniej był mniejszy i kiedyś powstał z bardzo małego obszaru.
-Przyjmuje się jakiś "początek", który nazywamy “Wielkim Wybuchem”.
-Nie da się tego potwierdzić za pomocą bezpośrednich obserwacji,
-zarejestrowano jednak promieniowanie reliktowe, które można interpretować jako pozostałość po Wielkim Wybuchu.
-Istnieje też matematyczny model, który opisuje Wszechświat zgodnie z tymi założeniami.
-Czy to oznacza, że nasz współczesny obraz Wszechświata jest prawidłowy?
-Wiemy, że nie jest. Już to, że jest sprzeczny z teorią kwantową sygnalizuje, że coś jest nie tak.
-Coraz dokładniejsze obserwacje powodują, że potrzebujemy coraz dziwniejszych konstrukcji,
-aby te obserwacje wytłumaczyć. Aby pogodzić obserwacje z teorią, wymyślono kosmiczną inflację
-(rozpychającą Wszechświat biliony bilionów razy w ułamku sekundy), ciemną materię i ciemną energię
-(o których nic nie wiadomo oprócz tego, że są potrzebne w ramach istniejącego modelu).
-Pojawiają się jednak następne obserwacje, których współczesna teoria nie potrafi wytłumaczyć,
-na przykład ogromne czarne dziury we wczesnym Wszechświecie.
+When we assume that the Universe expands, it seems to be logical that it was smaller and it was also created from a small area.  A “beginning” called the “Big Bang” was assumed. It cannot be proved by direct observations, however, relic radiation was detected, which may be interpreted as the remaining of the Big Bang. There is also a mathematical model which describes the Universe in accordance with the already said assumptions. Does it mean that our current image of the Universe is the right one? We know that it is not. The fact that it is in contrary to the quantum theory indicates that something is wrong. More and more precise observations require more eccentric structures to give explanations for such observations. As for better correlation between the observations and the theory, cosmic inflation was conceived (expanding the Universe billions of billion times in a fraction of a second), dark matter and dark energy (no one knows anything about but the fact that they are necessary as part of the existing model). Yet another observations will occur which cannot be explained by the modern theory, for example, giant black holes in the early Universe.
 
-Chyba już czas zatrzymać się i zastanowić, które nasze założenia mogą być błędne
-i zbudować model Wszechświata od nowa.
+Now it is time to stop and think which of our assumptions may be erroneous, and time to build the model of the Universe once again.
 
-## [II. Widzialna część Wszechświata](rozdzial2)
+## [II. The observable Universe](rozdzial2)
