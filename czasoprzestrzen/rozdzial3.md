@@ -3,6 +3,8 @@ mathjax: true
 ---
 ## III. Matematika i mózg
 
+(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+
 Często ten sam problem można rozwiązywać za pomocą równań matematycznych,
 albo geometrycznie. Grawitację można na przykład uznać za siłę i opisać równaniem,
 albo tłumaczyć geometrycznie, za pomocą zakrzywienia czasoprzestrzeni.
