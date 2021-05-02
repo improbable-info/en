@@ -1,60 +1,27 @@
-(work on translation from Polish into English is ongoing and the Polish text will be replaced as soon as possible)
+## XII. Space-time swirls and deformations
 
-## XII. Wiry i deformacje czasoprzestrzeni
+Let us check in our model the accelerated motion and gravitation.
 
-Spróbujmy sprawdzić, jak w naszym modelu będzie wyglądał ruch przyspieszony i grawitacja.
+First, we have to get back for a while to the model of a two-dimensional flat space-time. When a person is drifted away from us in uniform linear motion, the track of such motion in space-time is a straight line tilted under the angle depending on the speed of such drifting. When his/her motion is accelerated, the line will become curved.
 
-Najpierw powróćmy na chwilę do modelu dwuwymiarowej płaskiej czasoprzestrzeni.
+In our model with complex time it will be similar, the direction of the local time in space-time will change during the entire acceleration time. 
 
-Jeżeli od nas ktoś oddalał się ruchem jednostajnym prostoliniowym, to tor tego ruchu w czasoprzestrzeni był linią prostą
-nachyloną pod kątem zależnym od szybkości oddalania się.
-Jeżeli jego ruch będzie przyspieszony, to linia będzie się zakręcać.
+Now let us examine what effect on our model has the additional condition that gravitation and accelerated motion are to be equivalent. It is a postulate Einstein  called the equivalence principle and gave it the status of the fundamental law of physics.
 
-W naszym modelu z czasem zespolonym będzie podobnie,
-kierunek czasu lokalnego w czasoprzestrzeni będzie się zmieniać przez cały czas przyspieszania.
+In view of the fact that gravitation works all the time it has to induce all the time the change of the direction of the local time in space-time.
 
-Teraz zbadajmy, jaki efekt w naszym modelu daje dodatkowy warunek,
-że grawitacja i ruch przyspieszony mają być nierozróżnialne. Jest to założenie,
-które Einstein nazwał zasadą równoważności i nadał jej status głównej zasady fizyki.
+If we add another postulate (according to the theory of relativity and experience), the presence mass results in time slow-down, and in our case also slow-down of the cosmic time. In this way we will obtain a swirling hole in the space-time.
 
-Ze względu na to, że grawitacja działa przez cały czas,
-to musi przez cały czas powodować zmianę kierunku czasu lokalnego w czasoprzestrzeni.
+We can reverse our reasoning and state that the swirl in space-time causes gravitation. When we think about it for a while we understand that a particle can be identified with such swirl in space-time and we do not need to worry about it.
 
-Jeżeli dodamy następne założenie (zgodne z teorią względności i doświadczeniem),
-że materia powoduje spowolnienie czasu (w naszym przypadku również czasu kosmicznego),
-to otrzymamy w czasoprzestrzeni wirujący dołek.
+When we identify elementary particles  as swirls in space-time then we will understand the origins of the uncertainty principle and the fact why the particle can have wave properties. There is nothing extraordinary about the fact that matter can be transformed into energy. An antiparticle in our model is a swirl rotating in a different direction. When the two swirls rotating in a different direction meet, they disappear and go as a wave in  space-time. Other facts, previously incomprehensible, can be also explained. For example, quantum entanglement of particles can be pictured as swirls connected by their tops (their narrower parts).
 
-Można odwrócić tok myślenia i stwierdzić, że wir w czasoprzestrzeni powoduje grawitację.
-Jeżeli się nad tym przez chwilę zastanowimy, to zrozumiemy,
-że cząstkę możemy utożsamić z takim wirem w czasoprzestrzeni i wcale nie potrzebujemy materii.
+We can go further and also replace all forces with deformations in space-time. In the general theory of relativity, gravitation had been already explained in such manner. But there the gravitation was distinguished from other forces. We assume that gravitation differs from other forces only by the fact that it is the deformation in space-time in the direction of the cosmic time, which goes only in one direction.  Taking into consideration the above, there is nothing like anti-gravitation.
 
-Jeżeli cząstki elementarne będziemy rozumieli jako wiry w czasoprzestrzeni, to zrozumiemy,
-skąd bierze się zasada nieoznaczoności i dlaczego cząstka może mieć właściwości falowe.
-Nie ma też niczego dziwnego w tym, że można materię zamieniać w energię.
-Antycząstka jest w naszym modelu wirem obracającym się w odwrotnym kierunku.
-Jeżeli spotkają się dwa takie wiry obracające się w odwrotnych kierunkach,
-to znikają i rozchodzą się one jako fala w czasoprzestrzeni. Można też wytłumaczyć inne fakty, wcześniej niezrozumiale.
-Na przykład splątanie kwantowe cząstek można sobie wyobrazić, jako wiry stykające się swymi wierzchołkami...
+Let us get back for a while to the issue of dark matter. A large number of phenomena leading to the concept of dark matter such as fast rotation of galaxies or higher than expected gravitational lensing, can be easily explained when clarifying in our imagination the concept of the observable Universe. When the light path, which is curved in space-time, we believe to be linear, we stretch out distant areas in our imagination and as a consequence, in our computations the amount of matter is insufficient.
 
-Można pójść jeszcze dalej i również wszystkie siły zastąpić deformacjami czasoprzestrzeni.
-W ogólnej teorii względności była już w ten sposób wyjaśniona grawitacja.
-Tylko tam odróżniało ją to od innych sił. My przypuszczamy, że grawitacja różni się od innych sił tylko tym,
-że jest to deformacja czasoprzestrzeni w kierunku czasu kosmicznego, który biegnie tylko w jednym kierunku.
-Z tego powodu też nie istnieje antygrawitacja.
+It is not the way, however, how the galaxy rotation curve can be explained, that is, the orbital speed of stars  is lower than expected at a short distance from the centre of the galaxy. In a flat space it is difficult to find out other solution than the one with the dark matter but in our model the galaxy creates a hole in space-time, and in its centre time flows slower and also, the orbital speed of stars in the galactic centre must be lower.
 
-Wróćmy jeszcze na chwilę do problemu ciemnej materii.
-Dużą ilość zjawisk prowadzących do pojęcia ciemnej materii, takiich jak szybka rotacja galaktyk
-czy większe niż się spodziewano soczewkowanie grawitacyjne,
-można w prosty sposób wytłumaczyć poprzez wyprostowanie w naszym umyśle widzialnej części Wszechświata.
-Jeżeli tor światła, który jest w czasoprzestrzeni zakrzywiony, uważamy za prostoliniowy,
-oddalone obszary w naszej wyobraźni rozciągamy i w następstwie tego w obliczeniach brakuje materii.
+According to our model the entire universe is only a spinning and wavy space-time...
 
-Nie można jednak w ten sposób wytłumaczyć krzywej rotacji galaktyk,
-czyli mniejszą niż się spodziewano prędkość orbitalną gwiazd w malej odległości od centrum galaktyki.
-W płaskiej przestrzeni trudno znaleźć inne rozwiązanie niż kombinowanie z ciemną materią,
-natomiast w naszym modelu galaktyka tworzy w czasoprzestrzeni dołek,
-w centrum którego czas płynie wolniej a prędkość orbitalna gwiazd w pobliżu centrum galaktyki musi być mniejsza.
-
-Według naszego modelu cały wszechświat jest tylko wirującą i falującą czasoprzestrzenią...
-
-## [XIII. Zakończenie](rozdzial13) 
+## [XIII. Conclusion](rozdzial13) 
