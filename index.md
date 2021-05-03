@@ -1,4 +1,4 @@
-## A new model of the universe
+## A new model of the Universe
 
 Jiří Šrajer: to start with a few sentences [about me](autor).
 
