@@ -14,5 +14,4 @@ and that we need to create a new space-time model.
 After several years of intensive work, I wrote down the basic ideas of the new model in the book [A brief debate on space-time](czasoprzestrzen).
 I am currently working on a computer model of the Universe according to my assumptions.
 
-For interested I provide [Additional information](dodatki)
-and [Contact](kontakt).
+For interested I provide [Additional information and Contact](dodatki).
