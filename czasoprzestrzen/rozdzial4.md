@@ -6,7 +6,7 @@ mathjax: true
 
 We are used to the Euclidean geometry to such an extend that we even take into account the fact that already in the beginning we often assume subconsciously that space is Euclidean. As to even start thinking that it might be otherwise, first, we have to know something about the non-Euclidean geometry. 
 
-Euclid created his geometries on a flat sheet of paper and he assumed that the sheet can be stretched out in all directions to the infinity. It could be sufficient when the Earth was a little smaller and people immediately would reach the conclusion that there are no infinite plane that every plane is curved, and eventually it will form a sphere. Our perception of space would be probably different.
+<!--Euclid created his geometries on a flat sheet of paper and he assumed that the sheet can be stretched out in all directions to the infinity. It could be sufficient when the Earth was a little smaller and people immediately would reach the conclusion that there are no infinite plane that every plane is curved, and eventually it will form a sphere. Our perception of space would be probably different.
 
 On the surface of a sphere the geometry looks different than on the plane. Straight lines are not infinite, they get curved and eventually they form circles. We can construct various triangles or circles but the sum of angles in a triangle will be always more than 180 degrees and the circumference of a circle will be always less than 2πr. The difference will be bigger, the bigger the area of a triangle or circle is. Yet when we limit ourselves to small space on the surface of a sphere then the differences regarding the Euclidean geometry will be minor. According to our experience, a fairly accurate map of a small area of the Earth surface can be prepared. In other words, one can assume that such fraction of the surface of a sphere is flat.
 
@@ -36,4 +36,4 @@ where **x**, **y** i **z** mean respective coordinates of the distant point. Suc
 
 In the light of the above considerations, in our analysis not only real numbers but also complex numbers which are not used in everday life, will be needed, some information within this respect may also be useful.
 
-## [V. Few words about complex numbers](rozdzial5)
+## [V. Few words about complex numbers](rozdzial5) -->
