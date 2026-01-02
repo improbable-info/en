@@ -1,6 +1,6 @@
 ## II. Definiowanie pojęć
 
-Myślenie ludzi w dużej mierze oznacza operowanie pojęciami.
+<!--Myślenie ludzi w dużej mierze oznacza operowanie pojęciami.
 Jeżeli chcemy, aby komputer nauczył się rozumieć znaczenie słów, musimy najpierw uświadomić sobie,
 skąd my wiemy, co dane słowo oznacza.
 
@@ -152,4 +152,4 @@ ale wytwarzać nowe pojęcia stworzone specjalnie w celu porozumienia się z kom
 W tej chwili odłóżmy jeszcze pytanie, jakie pojęcia mogłyby to być i zastanówmy się na chwilę
 nad pojęciem **informacja**.
 
-### [Zamówić książkę](https://www.mybook.pl/6/0/bid/303)
+### [Zamówić książkę](https://www.mybook.pl/6/0/bid/303) -->
