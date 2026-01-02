@@ -5,7 +5,7 @@ mathjax: true
 ## III. Mathematics and the brain
 
 Frequently, the same problem can be solved either by employment of mathematical equations, or geometry. For example, the gravity can be assumed as a force and it can be defined by using a mathematical equation, or it can be explained geometrically with the curvature of space-time.
-
+<!--
 *Probably, the above problem is not only concerned with employment of another tool, but also with the different hemisphere of the human brain. For example, the left hemisphere is responsible for equations and the right one deals with geometrical imagination. Therefore, for full understanding it is important not only to compute the result, but also to be able to imagine it.*
 
 We can understand numbers as abstract symbols or we can imagine them as points on a straight line so-called   numerical axis. The point corresponding to number x  is located at a distance x from the point marked as zero (in one direction positive, in other direction negative). Provided that to one point on the straight line exactly one number is attributed, we will receive so-called real numbers.
@@ -57,4 +57,4 @@ The finite Universe gives such opportunity to investigate the phenomena, the mod
 
 At this stage we do not have any evidence that space is finite. However, what has been proven is that the above matter should be examined more thoroughly. When we assume the possibility that space is finite, in this case this space cannot be the Euclidean one.  In view of the above, non-Euclidean geometries should be also presented.
 
-## [IV. Non-Euclidean geometries and determination of distances](rozdzial4)
+## [IV. Non-Euclidean geometries and determination of distances](rozdzial4) -->
