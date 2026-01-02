@@ -1,8 +1,8 @@
 ## XII. Space-time swirls and deformations
 
 Let us check in our model the accelerated motion and gravitation.
-
-First, we have to get back for a while to the model of a two-dimensional flat space-time. When a person is drifted away from us in uniform linear motion, the track of such motion in space-time is a straight line tilted under the angle depending on the speed of such drifting. When his/her motion is accelerated, the line will become curved.
+...
+<!--First, we have to get back for a while to the model of a two-dimensional flat space-time. When a person is drifted away from us in uniform linear motion, the track of such motion in space-time is a straight line tilted under the angle depending on the speed of such drifting. When his/her motion is accelerated, the line will become curved.
 
 In our model with complex time it will be similar, the direction of the local time in space-time will change during the entire acceleration time. 
 
@@ -24,4 +24,4 @@ It is not the way, however, how the galaxy rotation curve can be explained, that
 
 According to our model the entire universe is only a spinning and wavy space-time...
 
-## [XIII. Conclusion](rozdzial13) 
+## [XIII. Conclusion](rozdzial13) -->
