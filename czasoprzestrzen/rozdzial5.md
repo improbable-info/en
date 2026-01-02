@@ -1,8 +1,8 @@
 ## V. Few words about complex numbers
 
 The one who does not posses the knowledge of complex numbers may be surprised that something like that actually does exist. How the square of a number can be negative when the square of any real number must be non-negative. Well, this is the core of the issue that real numbers do not have the roots in negative numbers,  although they are sometimes needed.
-
-What actually do people need numbers for? A long time ago people managed to live without them. It can be assumed that, at first, small natural numbers were needed in order to count members of a group or animals. With time people learned how to count. By adding two natural numbers we will receive a natural number again, only the higher one. The upper limit of the used numbers raised when the number of members in a group or number of used items or livestock increased. After that, people learned how to subtract numbers. For a long time people subtracted lower numbers from the higher ones. It was considered impossible that quantity can be negative. Only when loans appeared people realised that negative numbers might be useful.
+...
+<!--What actually do people need numbers for? A long time ago people managed to live without them. It can be assumed that, at first, small natural numbers were needed in order to count members of a group or animals. With time people learned how to count. By adding two natural numbers we will receive a natural number again, only the higher one. The upper limit of the used numbers raised when the number of members in a group or number of used items or livestock increased. After that, people learned how to subtract numbers. For a long time people subtracted lower numbers from the higher ones. It was considered impossible that quantity can be negative. Only when loans appeared people realised that negative numbers might be useful.
 
 *The above indicates that interpretation of numbers and calculations is not so strict and evident as we often think. It had taken hundreds of years before people learned how to freely use the negative numbers. When it comes to complex numbers it may take even longer...*
 
@@ -14,4 +14,4 @@ Complex numbers originate from real numbers, that is, to a real number that is t
 
 We see that all numbers mentioned so far in the geometrical interpretation are related to the Euclidean geometry. In other words, all computations conducted with the use of such numbers are based on a hidden assumption that space is Euclidean. It appears that for the computations related to cosmology, a mathematical model corresponding to the non-Euclidean geometries would be helpful...
 
-## [VI. How do we understand the time?](rozdzial6)
+## [VI. How do we understand the time?](rozdzial6) -->
