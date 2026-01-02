@@ -1,7 +1,7 @@
 ## X. The principle of relativity in space-time
 
-At the beginning the analysis should be performed by adopting the simplest model. Therefore, our analysis we will commence from a one-dimensional space which we can imagine as the straight line **p** in which the static observer **O**is placed. When we add time as the orthogonal straight line **t** to the space **p**, we will receive a two-dimensional space-time (Fig. 8).
-
+At the beginning the analysis should be performed by adopting the simplest model. Therefore, our analysis we will commence from a one-dimensional space which we can imagine as the straight line **p** in which the static observer **O**is placed. When we add time as the orthogonal straight line **t** to the space **p**, we will receive a two-dimensional space-time (Fig. 8). ...
+<!--
 ![rysunek8](../assets/img/rysunek8.png)
 
 Figure 8
@@ -34,4 +34,4 @@ However, a few problems appear at once. For example, what the speed of light exa
 
 Actually, finding a solution is often difficult because some assumptions we make subconsciously. We have been thought and used to some approaches, and we do not consider them as assumptions. Therefore, it is not easy to find out that the problem of causation can be a result of our writing and drawing on a flat sheet of paper and therefore our model is flat. If it is not flat, what is it then? The very first idea is that we will start to bend the plane and we will create the surface of a sphere from it. But the sphere does not only give us the solution to the problem but it also creates another one, ie. what happens when the observer moves around in time the entire sphere and he/she returns to the place he/she started from? All such problems disappear when the sphere starts to expand. Then, we will have a different perception of time. Time has got two dimensions here. The local time, different for different observers, which depending on the speed, takes different direction in space-time. On the other hand, the cosmic time in the direction of expanding the space-time, which in certain point is identical to all observers and it concerns also the light. In such model the principle of causation is not violated because although the local time of the two observers flows in an opposite direction, the cosmic time ensures that the sequence of events is provided.
 
-## [XI. Complex time and the space-time interval](rozdzial11) 
+## [XI. Complex time and the space-time interval](rozdzial11) -->
