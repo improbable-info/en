@@ -5,8 +5,8 @@ mathjax: true
 ## IX. Initial remarks on space-time
 
 The concept of space-time has already been adopted in classical mechanics as a Cartesian product of the Euclidean space and time. Time constituted here an additional dimension, but measured in other units and independent of space.
-
-It was Hermann Minkowski who realised the fact that time and space can constitute one object in which time and space somehow can be mixed and exchanged. He discovered that via a four-dimensional space, the specific theory of relativity can be presented in a simple way.
+...
+<!--It was Hermann Minkowski who realised the fact that time and space can constitute one object in which time and space somehow can be mixed and exchanged. He discovered that via a four-dimensional space, the specific theory of relativity can be presented in a simple way.
 
 One of the problems that needed to be resolved was to determine how distances should be measured in space-time.  In space distances can be measured in meters and time in seconds. In order to combine them it is necessary to convert the distances into time or time into distances. A good solution appears to be the multiplication of time **t** by speed of light **c**,
 and instead of time we will abtain the distance. When to the three-dimensional space we add another time dimension multiplied by the speed of light we will receive a four-dimensional space in which all dimensions are in the same units. However, another problem occurred. Time slightly differs from space. When in space we can freely move backwards and forwards, going back in time leads to various contradictions. Minkowski solved the issue in the following manner, apart from the speed of light he multiplied the time dimension by the imaginary unit **i**.
@@ -30,4 +30,4 @@ When we think about it we will understand that the space-time interval in a pres
 
 Everything we now see is the space-time interval which equals zero. We see it more clearly when for the distance in space the spherical coordinates are used. The distance in space is established by specifying how much time the light needs to reach us from an object, that is, the speed of light is multiplied by time. Subsequently, for the distance in space-time we receive the speed of light multiplied by time less the speed of light multiplied by time, that is, zero. How then we can determine the distance in space-time? If we want to find an answer to that question, first of all, we have to refer to the initial remarks on time and space-time and then try to find a solution once again.
 
-## [X. The principle of relativity in space-time](rozdzial10) 
+## [X. The principle of relativity in space-time](rozdzial10) -->
