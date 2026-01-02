@@ -1,7 +1,7 @@
 ## II. The observable Universe
 
 *The fact that we have any information about Cosmos at all it is because Cosmos is full of various waves. The picture of the Universe we imagine only on the basis of waves which reach us and the waves we can record. Supported by experience concerning short distances we believe that the observed objects are in the direction from which the emitted light reaches us and the distance equals to the light path from the object to us. However, it does not also have to be true...*
-
+<!--
 My analysis of the geometry of the Universe has commenced from the following remarks:
 
 In view of the limited speed of light we do not see the objects in the sky the way they truly are at the moment of observation but only the way they appeared some time ago. For example, we see the Sun the way it looked about 8 minutes ago, the closest stars the way they looked few years ago and distant galaxies billions years ago. The most distant objects are the oldest ones. One may imagine that they are placed in a giant sphere of the radius of few million of light-years.
@@ -64,4 +64,4 @@ Simultaneously, what it is observed is that for obtaining a proper picture of th
 
 When we want to determine the right deployment of objects in the Universe we must find the most reliable definition of distance in space-time. This task does not belong to the easy ones. As to understand the problem correctly, we need to analyse the entire way the concept of space-time was formulated, and we also need to estimate the distance in space-time. Later, we need to determine what assumptions were employed to create the space-time interval and which of the assumptions may be incorrect. Then, we have to find other possibilities. For that purpose some mathematics will be needed. I will try to do it in most easy to understand way.
 
-## [III. Mathematics and the brain](rozdzial3)
+## [III. Mathematics and the brain](rozdzial3) -->
