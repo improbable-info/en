@@ -1,8 +1,8 @@
 ## VIII. A few words about space
 
 Most people probably imagine the concept of space as a three-dimensional Euclidean space. For a long time no one could think that it might be otherwise. Why? Because such a model constitutes good estimation of  physical space for short macroscopic distances we usually encounter in life.
-
-However, the fact that physical space may not be the Euclidean space is proved by the effect of the curvature of space created by mass and also the examinations of very short distances where quantum phenomena occur.
+...
+<!--However, the fact that physical space may not be the Euclidean space is proved by the effect of the curvature of space created by mass and also the examinations of very short distances where quantum phenomena occur.
 
 If not the Euclidean space, then what instead? In mathematics the definition of space can be provided more generally as a collection of elements with an additional structure. Some of them can significantly differ comparing to what we usually understand as the concept of space. When we want to create a model corresponding to the real space we need to have a possibility to determine distances in it. What we need is a metric space in which the metrics is defined, that is, a function which specifies distances between every pair of elements of such collection (provided additional conditions are satisfied). Elements of such space are called points. Such space does have to be neither finite, nor coherent. But whether the real space is coherent? Our perception of a coherent space is based on sight which misleads us. When we watch a film we see fluent motion not discrete shots. In objects we see we do not also distinguish swirling atoms. When we describe reality with the use of equations, then we create a model of a coherent space. However, when we use cellular automata, space can be modelled by a complete grid of cells. One should always pay attention to the fact that any model is only an estimation of reality and it does not contain all its properties and the properties it includes are not precisely defined. We also sometimes can interpret wrongly the obtained results.
 
@@ -18,4 +18,4 @@ At this stage one could already come to the conclusion that time and space can b
 
 Anyway we see that time and space somehow are correlated and should be examined simultaneously. Therefore, introduction to the concept of space-time appeared to be very useful.
 
-## [IX. Initial remarks on space-time](rozdzial9)  
+## [IX. Initial remarks on space-time](rozdzial9) -->
